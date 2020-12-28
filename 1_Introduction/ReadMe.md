@@ -85,6 +85,7 @@ Now let's see what are all the dependencies needed for react.js installation in 
 For creating application, use the below command
 
 npx create-react-app praveenoruganti-reactjs-samples
+
 npm start
 
 once you run the above command you will see the below
