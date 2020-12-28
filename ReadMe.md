@@ -10,6 +10,6 @@
 - [Interview Questions](https://praveenoruganti.github.io/praveenoruganti-reactjs/0_Interview%20Questions)
 
 
-**Note** I will make sure to keep this updated.
+**Note**: I will make sure to keep this updated.
 
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)
