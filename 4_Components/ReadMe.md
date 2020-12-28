@@ -57,7 +57,7 @@ The above two components are equivalent from React's point of view.
 For example,
 
 ```HTML
-<div /> represents an HTML div tag, but <Welcome /> represents a component and requires Welcome to be in scope.
+<div/> represents an HTML div tag, but <Welcome/> represents a component and requires Welcome to be in scope.
 ```
 
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)
