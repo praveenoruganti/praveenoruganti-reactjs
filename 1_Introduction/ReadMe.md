@@ -1,12 +1,12 @@
 # React JS Introduction
 
-React.js is a JavaScript library created by Facebook and it generally uses jsx(js and html) for writing the code and uses Virtual DOM concept.
+React JS is a JavaScript library created by Facebook and it generally uses jsx(js and html) for writing the code and uses Virtual DOM concept.
 
 Initial release of react.js happened on May 29, 2013.
 
-React.js is an Open Sourced JavaScript library for building fast and interactive User Interfaces.It lets you compose complex UIs from small and isolated pieces of code called **components**.
+React JS is an Open Sourced JavaScript library for building fast and interactive User Interfaces.It lets you compose complex UIs from small and isolated pieces of code called **components**.
 
-## Why React is so popular?
+## Why React JS is so popular?
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/reactjs.png)
 
 ## Single Page Applications(SPAs)
@@ -63,14 +63,14 @@ Model gives data to view, if the DOM is empty then React will create a DOM for i
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/virtualdom1.png)
 
-Updating virtual DOM in ReactJS is faster because ReactJS uses
+Updating virtual DOM in React JS is faster because React JS uses
 - Efficient diff algorithm
 - Batched update operations
 - Efficient update of sub tree only
 - Uses observable instead of dirty checking to detect change
 
 ## What is data binding?
-React.js follows unidirectional data flow or one way data binding.
+React JS follows unidirectional data flow or one way data binding.
 Throughout the application the data flows in a single direction which gives you better control over it.
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/databinding.png)
@@ -85,11 +85,11 @@ We can use online editors like
 - https://jsfiddle.net/reactjs/
 - https://codepen.io/
 
-Now let's see what are all the dependencies needed for react.js installation in your environment.
+Now let's see what are all the dependencies needed for React JS installation in your environment.
 - Download and install npm : [https://nodejs.org/en/](https://nodejs.org/en/)
 - Download and install editor [https://code.visualstudio.com/docs/?dv=win](https://code.visualstudio.com/docs/?dv=win)
 
-## Main components to build a react application are
+## Main components to build a React JS application are
 - webpack.config.js -> contains information about the dependencies and the files from where browser start rendering form.
 - HTML file -> contains the html template which is used by browser to render the elements on the webpage.
 - JSX file -> contains description off what all components we want to display on our webpage and how they will behave.
