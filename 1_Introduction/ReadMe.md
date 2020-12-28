@@ -6,17 +6,28 @@ Initial release of react.js happened on May 29, 2013.
 
 React.js is an Open Sourced JavaScript library for building fast and interactive User Interfaces.It lets you compose complex UIs from small and isolated pieces of code called **components**.
 
-**Prerequisites for learning React JS**
+## Why React is so popular?
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/reactjs.png)
+
+## Single Page Applications(SPAs)
+A single page application is an app that works inside a browser and does not require page load during use.
+
+SPAs are all about serving an outstanding user experience(UX) by trying to imitate a natural environment in the browser - no page reloads, no extra wait time.It is just one HTML page that you visit which then loads all other content using JavaScript.
+
+For example: Gmail, Facebook, Instagram, Trello.
+
+## Multiple Page Applications(MPAs)
+Multi-page applications work in a **traditional** way. Every change like, display the data or submit the data or submit data back to server, sends a request to the server to render a new page in the browser.
+
+Whenever a user navigates from one page to another, a request is sent to the server to send a new HTML file for that URL. The server returns a file and then HTML file is loaded in the browser.
+
+For example: Dribble, Harvard's Official site.
+## Prerequisites for learning React JS
 
 1. Knowledge of HTML & CSS
 2. Knowledge of JavaScript and ES6 standards(https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 3. Some knowledge about the DOM
 4. Some knowledge about Node & npm (and installation)
-
-Generally we will use React JS for building single paged application (spa).
-
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/reactjs.png)
-
 
 ## React JS Roadmap
 
