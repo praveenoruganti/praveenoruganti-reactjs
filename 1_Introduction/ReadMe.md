@@ -91,8 +91,9 @@ For running the application, use the below command
 **npm start**
 
 You will see this in browser
+
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/reactjs1.png)
 
-You can check out the code in [repo](https://github.com/praveenoruganti/praveenoruganti-reactjs/tree/master/1_Introduction/Demo/praveenoruganti-reactjs-samples)
+You can check out the code in [repo](https://github.com/praveenoruganti/praveenoruganti-reactjs/tree/master/1_Introduction/Demo/praveenoruganti-reactjs-samples).
 
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)
