@@ -91,7 +91,7 @@ And how does React get notified? You guessed it: with setState(). The setState()
 
 In summary, there are 2 important points we need to pay attention to when using state:
 
-- State shouldn't be modified directly – the setState( ) should be used.
+- State shouldn't be modified directly – the setState() should be used.
 - State affects the performance of your app, and therefore it shouldn't be used unnecessarily.
 
 **Can I use state in every component?**
@@ -109,5 +109,5 @@ If your project is not using React Hooks, then you can only use state in class c
 - Data from props is read-only, and cannot be modified by a component that is receiving it from outside.
 - State data can be modified by its own component, but is private (cannot be accessed from outside).
 - Props can only be passed from parent component to child (unidirectional flow).
-- Modifying state should happen with the setState ( ) method.
+- Modifying state should happen with the setState() method.
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)
