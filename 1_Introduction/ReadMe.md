@@ -4,7 +4,7 @@ React.js is a JavaScript library created by Facebook and it generally uses jsx(j
 
 Initial release of react.js happened on May 29, 2013.
 
-React.js is an Open Sourced and used to develop interactive User Interfaces.It lets you compose complex UIs from small and isolated pieces of code called **components**.
+React.js is an Open Sourced JavaScript library for building fast and interactive User Interfaces.It lets you compose complex UIs from small and isolated pieces of code called **components**.
 
 **Prerequisites for learning React JS**
 
