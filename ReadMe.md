@@ -2,9 +2,10 @@
 
 - [Introduction](https://praveenoruganti.github.io/praveenoruganti-reactjs/1_Introduction)
 - [JSX](https://praveenoruganti.github.io/praveenoruganti-reactjs/2_JSX)
-- [Components](https://praveenoruganti.github.io/praveenoruganti-reactjs/3_Components)
-- [State and Props](https://praveenoruganti.github.io/praveenoruganti-reactjs/4_State_Props)
-- [Hooks](https://praveenoruganti.github.io/praveenoruganti-reactjs/5_Hooks)
+- [JSX](https://praveenoruganti.github.io/praveenoruganti-reactjs/3_Rendering%20Elements)
+- [Components](https://praveenoruganti.github.io/praveenoruganti-reactjs/4_Components)
+- [State and Props](https://praveenoruganti.github.io/praveenoruganti-reactjs/5_State_Props)
+- [Hooks](https://praveenoruganti.github.io/praveenoruganti-reactjs/6_Hooks)
 - [Projects](https://praveenoruganti.github.io/praveenoruganti-reactjs/0_Projects)
 - [Interview Questions](https://praveenoruganti.github.io/praveenoruganti-reactjs/0_Interview%20Questions)
 
