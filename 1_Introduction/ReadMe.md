@@ -4,7 +4,7 @@ React.js is a JavaScript library created by Facebook and it generally uses jsx(j
 Initial release of react.js happened on May 29, 2013.
 React.js is an Open Sourced and used to develop interactive User Interfaces.
 
-**Prerequisites for learning React.js**
+**Prerequisites for learning React JS**
 
 1. Knowledge of HTML & CSS
 2. Knowledge of JavaScript and ES6 standards(https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -65,7 +65,7 @@ Throughout the application the data flows in a single direction which gives you 
 ## What is Server side rendering?
 Server side rendering allows you to pre-render the initial state of react components at the server side only.
 
-## React.js installation
+## React JS installation
 
 We can use online editors like
 - https://codesandbox.io/
