@@ -102,6 +102,7 @@ For creating application, use the below command
 The create-react-app tool installs all the libraries and packages required to build a React Application. It creates a default configuration for our react project. It also add some starter files in the newly created application.
 
 **What is npm and npx?**
+
 npm is the node package manager for JavaScript. It helps you manage all the 3rd party packages and libraries that you will be installing for your application. It installed automatically when you install Node JS. You can check out my [blog](https://praveenorugantitech.blogspot.com/2019/11/npm-basics.html) for more information on npm.
 
 npx is a node package runner. It is used to download and run a package temporarily.
