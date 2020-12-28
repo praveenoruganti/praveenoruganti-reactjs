@@ -18,7 +18,7 @@ Generally we will use React JS for building single paged application (spa).
 
 ## React JS Roadmap
 
-Let’s see the React JS roadmap and go deeper into the concepts.
+Let's see the React JS roadmap and go deeper into the concepts.
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/roadmap.jpg)
 
@@ -30,11 +30,11 @@ Let’s see the React JS roadmap and go deeper into the concepts.
 
 ## What is meant by Virtual DOM?
 
-Let’s see how exactly renders the webpage
+Let's see how exactly renders the webpage
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/virtualdom.png)
 
-Rendering engines which is responsible for displaying or rendering the webpage on the browser screen parses the HTML page to create DOM. 
+Rendering engines which is responsible for displaying or rendering the webpage on the browser screen parses the HTML page to create DOM.
 
 If you see above screenshot, updating a Real DOM does not involves just updating the DOM but, it involves a lot of other process.
 
@@ -67,16 +67,16 @@ Server side rendering allows you to pre-render the initial state of react compon
 
 ## React.js installation
 
-We can use online editors like 
+We can use online editors like
 - https://codesandbox.io/
 - https://jsfiddle.net/reactjs/
 - https://codepen.io/
 
-Now let’s see what are all the dependencies needed for react.js installation in your environment.
+Now let's see what are all the dependencies needed for react.js installation in your environment.
 - Download and install npm : [https://nodejs.org/en/](https://nodejs.org/en/)
 - Download and install editor [https://code.visualstudio.com/docs/?dv=win](https://code.visualstudio.com/docs/?dv=win)
 
-## Main components to build a react application are 
+## Main components to build a react application are
 - webpack.config.js -> contains information about the dependencies and the files from where browser start rendering form
 - HTML file -> contains the html template which is used by browser to render the elements on the webpage
 - JSX file -> contains description off what all components we want to display on our webpage and how they will behave.
