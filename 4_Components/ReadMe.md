@@ -2,10 +2,13 @@
 
 Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
 
-Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called **props**) and return React elements describing what should appear on the screen.
-## Class and Function Components
+A component is a JavaScript class or function that optionally accepts some data and returns a React elements that describes how a section of the UI should appear.
 
-**Class Components**
+There are 2 types of components:
+- Class-based Components.
+- Functional Components.
+
+## Class Components
 - Class components make use of ES6 class and extend the Component class in React.
 - Sometimes called **smart** or **stateful** components as they tend to implement logic and state.
 - React lifecycle methods can be used inside class components (for example, componentDidMount).
@@ -23,9 +26,7 @@ class Welcome extends React.Component {
 export default Welcome;
 
 ```
-
-
-**Function Components**
+## Function Components
 - Function components are basic JavaScript functions. These are typically arrow functions but can also be created with the regular function keyword.
 - Sometimes referred to as **dumb** or **stateless** components as they simply accept data and display them in some form; that is they are mainly responsible for rendering UI.
 - React lifecycle methods (for example, componentDidMount) cannot be used in function components.

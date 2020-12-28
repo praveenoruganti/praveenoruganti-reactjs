@@ -2,7 +2,7 @@
 
 React JS is a JavaScript library created by Facebook and it generally uses jsx(js and html) for writing the code and uses Virtual DOM concept.
 
-Initial release of react.js happened on May 29, 2013.
+Initial release of React JS happened on May 29, 2013.
 
 React JS is an Open Sourced JavaScript library for building fast and interactive User Interfaces.It lets you compose complex UIs from small and isolated pieces of code called **components**.
 
