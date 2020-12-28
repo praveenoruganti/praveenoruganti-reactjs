@@ -24,6 +24,7 @@ export default Welcome;
 
 ```
 
+
 **Function Components**
 - Function components are basic JavaScript functions. These are typically arrow functions but can also be created with the regular function keyword.
 - Sometimes referred to as **dumb** or **stateless** components as they simply accept data and display them in some form; that is they are mainly responsible for rendering UI.
@@ -50,9 +51,11 @@ The above two components are equivalent from React's point of view.
 
 **Note**: Always start component names with a capital letter.
 
+
 **React treats components starting with lowercase letters as DOM tags.**
 
 For example,
+
 ``HTML
 <div /> represents an HTML div tag, but <Welcome /> represents a component and requires Welcome to be in scope.
 ```
