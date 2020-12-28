@@ -104,8 +104,6 @@ If your project is not using React Hooks, then you can only use state in class c
 
 ## What are the differences between props and state?
 
-Finally, let's recap and see the main differences between props and state:
-
 - Components receive data from outside with props, whereas they can create and manage their own data with state.
 - Props are used to pass data, whereas state is for managing data.
 - Data from props is read-only, and cannot be modified by a component that is receiving it from outside.
