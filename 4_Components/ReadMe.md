@@ -44,7 +44,7 @@ const Greeting = (props) => {
 export default Greeting;
 ```
 
-This function is a valid React component because it accepts a single "props" (which stands for properties) object argument with data and returns a React element. We call such components "function components" because they are literally JavaScript functions.
+This function is a valid React component because it accepts a single **props** (which stands for properties) object argument with data and returns a React element. We call such components **function components** because they are literally JavaScript functions.
 
 The above two components are equivalent from React's point of view.
 
