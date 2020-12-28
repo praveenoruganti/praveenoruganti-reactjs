@@ -77,8 +77,8 @@ Now let's see what are all the dependencies needed for react.js installation in 
 - Download and install editor [https://code.visualstudio.com/docs/?dv=win](https://code.visualstudio.com/docs/?dv=win)
 
 ## Main components to build a react application are
-- webpack.config.js -> contains information about the dependencies and the files from where browser start rendering form
-- HTML file -> contains the html template which is used by browser to render the elements on the webpage
+- webpack.config.js -> contains information about the dependencies and the files from where browser start rendering form.
+- HTML file -> contains the html template which is used by browser to render the elements on the webpage.
 - JSX file -> contains description off what all components we want to display on our webpage and how they will behave.
 
 ## Create React App
@@ -88,9 +88,10 @@ npx create-react-app praveenoruganti-reactjs-samples
 
 npm start
 
-once you run the above command you will see the below
+once you run the above command you will see the below and code is present in [repo](https://github.com/praveenoruganti/praveenoruganti-reactjs/tree/master/1_Introduction/Demo/praveenoruganti-reactjs-samples)
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/reactjs1.png)
 
+You can check out the [Demo](https://praveenoruganti.github.io/praveenoruganti-reactjs/1_Introduction/Demo/praveenoruganti-reactjs-samples).
 
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)

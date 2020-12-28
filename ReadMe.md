@@ -1,6 +1,5 @@
 # All About React JS
 
-
 - [Introduction](https://praveenoruganti.github.io/praveenoruganti-reactjs/1_Introduction)
 - [JSX](https://praveenoruganti.github.io/praveenoruganti-reactjs/2_JSX)
 - [Components](https://praveenoruganti.github.io/praveenoruganti-reactjs/3_Components)
