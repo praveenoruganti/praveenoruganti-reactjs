@@ -1,5 +1,4 @@
-
-## Rendering Elements
+# Rendering Elements
 Elements are the smallest building blocks of React apps.
 
 An element describes what you want to see on the screen:
@@ -8,7 +7,7 @@ const element = <h1>Hello, world</h1>;
 ```
 Unlike browser DOM elements, React elements are plain objects, and are cheap to create. React DOM takes care of updating the DOM to match the React elements.
 
-**Rendering an Element into the DOM**
+## Rendering an Element into the DOM
 Let's say there is a <div> somewhere in your HTML file:
 ```HTML
 <div id="root"></div>
@@ -48,7 +47,7 @@ It calls ReactDOM.render() every second from a setInterval() callback.
 
 In practice, most React apps only call ReactDOM.render() once.
 
-**React Only Updates What's Necessary**
+## React Only Updates What's Necessary
 React DOM compares the element and its children to the previous one, and only applies the DOM updates necessary to bring the DOM to the desired state.
 
 Even though we create an element describing the whole UI tree on every tick, only the text node whose contents have changed gets updated by React DOM.

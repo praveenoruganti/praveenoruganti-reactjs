@@ -2,7 +2,7 @@
 
 - [Introduction](https://praveenoruganti.github.io/praveenoruganti-reactjs/1_Introduction)
 - [JSX](https://praveenoruganti.github.io/praveenoruganti-reactjs/2_JSX)
-- [JSX](https://praveenoruganti.github.io/praveenoruganti-reactjs/3_Rendering%20Elements)
+- [Rendering Elements](https://praveenoruganti.github.io/praveenoruganti-reactjs/3_Rendering%20Elements)
 - [Components](https://praveenoruganti.github.io/praveenoruganti-reactjs/4_Components)
 - [State and Props](https://praveenoruganti.github.io/praveenoruganti-reactjs/5_State_Props)
 - [Hooks](https://praveenoruganti.github.io/praveenoruganti-reactjs/6_Hooks)
