@@ -1,17 +1,29 @@
 # All About JSX
-
-Consider this variable declaration
+## What is JSX?
 
 ```jsx
-const element = <h1>Hello, world!</h1>;
+<div>
+<h1>Main Heading</h1>
+<img src="PraveenOruganti.jpg" alt="Praveen Oruganti"/>
+<p>{imageDescription}</p>
+</div>
+
 ```
+JSX is a syntax extension to JavaScript. It allows us to define React elements using syntax that looks very similar to HTML. It is used to define the look of the UI. In other words, it is used to define the structure of React Components.
 
-This funny tag syntax is neither a string nor HTML.
+**HTML vs JSX**
 
-It is called JSX, and it is a syntax extension to JavaScript. We recommend using it with React to describe what the UI should look like. JSX may remind you of a template language, but it comes with the full power of JavaScript.
+Unlike HTML, JSX couples the rendering logic with other UI logic such as event handling, state changing, data displaying etc..
 
-JSX produces React "elements".
+```jsx
+const imageDescription= "This is Praveen Oruganti";
+<div>
+<h1>Main Heading</h1>
+<img src="PraveenOruganti.jpg" alt="Praveen Oruganti"/>
+<p>{imageDescription}</p>
+</div>
 
+```
 ## Why JSX?
 
 React embraces the fact that rendering logic is inherently coupled with other UI logic: how events are handled, how the state changes over time, and how the data is prepared for display.
