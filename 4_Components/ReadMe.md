@@ -57,4 +57,5 @@ React treats components starting with lowercase letters as DOM tags. For example
 ## Difference between Functional and Class components
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/4_Components/images/components.PNG)
+*It is not possible without hooks.
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)
