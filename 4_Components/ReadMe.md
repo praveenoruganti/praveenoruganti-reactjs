@@ -54,4 +54,7 @@ The above two components are equivalent from React's point of view.
 
 React treats components starting with lowercase letters as DOM tags. For example, <div /> represents an HTML div tag, but <Welcome /> represents a component and requires Welcome to be in scope.
 
+## Difference between Functional and Class components
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/4_Components/images/components.PNG)
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)
