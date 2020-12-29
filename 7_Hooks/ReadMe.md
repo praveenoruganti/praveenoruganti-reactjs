@@ -55,24 +55,67 @@ React provides a few built-in Hooks like useState. You can also create your own 
 
 React useState() hook manages the state in functional React components. In class components this.state holds the state, and you invoke the special method this.setState() to update the state.
 
-We define it as follows:
+- It declares a state variable.
+- It is a function that accepts a single argument, initial state for the instance of the component.
+- returns a pair of values, First is the state and the second is a function we call to update the state.
+
+For example,
 
 ```jsx
-const [ someState, updateState ] = useState(initialState)
-```
-Let's break this down:
-- someState: lets you access the current state variable, someState.
-- updateState: function that allows you to update the state — whatever you pass into it becomes the new someState.
-- initialState: what you want someState to be upon initial render.
+import React, { useState } from 'react';
 
-**Note**: 
+function Example() {
+  // Declare a new state variable, which we'll call "count"
+  const [count, setCount] = useState(0);
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>
+        Click me
+      </button>
+    </div>
+  );
+}
+
+```
+
+**Note**:
 - The state variable is immutable and readonly.
 - useState() hook and this.setState() (inside class components) update the state variable and the component output asynchronously.
 - Calling the setter function setValue(newValue) of useState() hook (or this.setState() of class components) doesn't exactly update the state, but rather schedules a state update.
 
 ## useEffect
 
-useEffect is another hook that handles componentDidUpdate, componentDidMount, and componentWillUnmount all in one call. If you need to fetch data, for example, you could use useEffect hook to do so, as seen below.
+- By using this, you tell React that your component needs to do something after render.
+- declare count state variable, then tell React to use an effect, pass a function to the useEffect. function we pass is our effect. Inside our effect set the document.title.
+
+For example,
+```jsx
+import React, { useState, useEffect } from 'react';
+
+function Example() {
+  const [count, setCount] = useState(0);
+
+  // Similar to componentDidMount and componentDidUpdate:
+  useEffect(() => {
+    // Update the document title using the browser API
+    document.title = `You clicked ${count} times`;
+  });
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>
+        Click me
+      </button>
+    </div>
+  );
+}
+
+```
+
+Generally when we want to fetch data from backend api we do that in useEffect for example,
 
 ```jsx
 import React, { useState, useEffect } from 'react';
@@ -101,10 +144,6 @@ const HooksExample = () => {
 export default HooksExample;
 
 ```
-Taking a look at useEffect we see:
-
-- **First argument**: A function. Inside of it, we fetch our data using an async function and then set data when we get results.
-- **Second argument**: An array containing data. This defines when the component updates. As I mentioned before, useEffect runs when componentDidMount, componentWillUnmount, and componentDidUpdate would normally run. Inside the first argument, we’ve set some state, which would traditionally cause componentDidUpdate to run. As a result, useEffect would run again if we did not have this array. Now, useEffect will run on componentDidMount, componentWillUnmount, and if data was updated, componentDidUpdate. **This argument can be empty**— you can choose to pass in an empty array. In this case, only componentDidMount and componentWillUnmount will ever fire. But, you do have to specify this argument if you set some state inside of it.
 
 **Points to be noted**
 - Runs on every update
