@@ -164,7 +164,7 @@ export default HooksExample;
 
 ## useContext
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/7_Hooks/images/prop_drilling.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/7_Hooks/images/prop_drilling.jpg)
 
 As mentioned in the above screenshot, To avoid prop drilling we need to make use of Context API in class components and useContext in functional components.
 
