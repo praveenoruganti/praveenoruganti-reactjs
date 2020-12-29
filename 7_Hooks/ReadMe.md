@@ -59,9 +59,11 @@ Here with the different types of React Hooks.
 - [useRef](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/4_useRef)
 - [useReducer](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/5_useReducer)
 - [useMemo and useCallback](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/6_useMemo_useCallback)
+- [Custom Hook](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/7_Custom_Hook)
 
 ## React Component Lifecycle methods in Hooks
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/7_Hooks/images/lifecycle.jpg)
+
 
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)
