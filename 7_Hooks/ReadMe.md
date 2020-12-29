@@ -6,7 +6,7 @@ Hooks are a new addition in React 16.8. They let you use state and other React f
 import React,{useState} from 'react'
 
 export default function SampleCountHook() {
-    // Declare a new state variable, which we'll call "count"
+    // Declare a new state variable, which we'll call as count
     const [count, setCount] = useState(0);
     return (
         <div>

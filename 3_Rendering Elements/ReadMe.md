@@ -22,7 +22,7 @@ To render a React element into a root DOM node, pass both to ReactDOM.render():
 const element = <h1>Hello, world</h1>;
 ReactDOM.render(element, document.getElementById('root'));
 ```
-It displays "Hello, world" on the page.
+It displays **Hello, world** on the page.
 
 ## Updating Rendering Element
 React elements are immutable. Once you create an element, you can’t change its children or attributes. An element is like a single frame in a movie: it represents the UI at a certain point in time.
