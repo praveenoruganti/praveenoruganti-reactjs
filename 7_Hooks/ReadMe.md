@@ -53,7 +53,9 @@ React provides a few built-in Hooks like useState. You can also create your own 
 
 ## useState
 
-useState, as the name describes, is a hook that allows you to use state in your function. We define it as follows:
+React useState() hook manages the state in functional React components. In class components this.state holds the state, and you invoke the special method this.setState() to update the state.
+
+We define it as follows:
 
 ```jsx
 const [ someState, updateState ] = useState(initialState)
@@ -63,9 +65,14 @@ Let's break this down:
 - updateState: function that allows you to update the state — whatever you pass into it becomes the new someState.
 - initialState: what you want someState to be upon initial render.
 
+**Note**: 
+- The state variable is immutable and readonly.
+- useState() hook and this.setState() (inside class components) update the state variable and the component output asynchronously.
+- Calling the setter function setValue(newValue) of useState() hook (or this.setState() of class components) doesn't exactly update the state, but rather schedules a state update.
+
 ## useEffect
 
-useEffect is another hook that handles componentDidUpdate, componentDidMount, and componentWillUnmount all in one call. If you need to fetch data, for example, you could useEffect to do so, as seen below.
+useEffect is another hook that handles componentDidUpdate, componentDidMount, and componentWillUnmount all in one call. If you need to fetch data, for example, you could use useEffect hook to do so, as seen below.
 
 ```jsx
 import React, { useState, useEffect } from 'react';
@@ -97,6 +104,23 @@ export default HooksExample;
 Taking a look at useEffect we see:
 
 - **First argument**: A function. Inside of it, we fetch our data using an async function and then set data when we get results.
-- **Second argument**: An array containing data. This defines when the component updates. As I mentioned before, useEffect runs when componentDidMount, componentWillUnmount, and componentDidUpdate would normally run. Inside the first argument, we’ve set some state, which would traditionally cause componentDidUpdate to run. As a result, useEffect would run again if we did not have this array. Now, useEffect will run on componentDidMount, componentWillUnmount, and if data was updated, componentDidUpdate. This argument can be empty— you can choose to pass in an empty array. In this case, only componentDidMount and componentWillUnmount will ever fire. But, you do have to specify this argument if you set some state inside of it.
+- **Second argument**: An array containing data. This defines when the component updates. As I mentioned before, useEffect runs when componentDidMount, componentWillUnmount, and componentDidUpdate would normally run. Inside the first argument, we’ve set some state, which would traditionally cause componentDidUpdate to run. As a result, useEffect would run again if we did not have this array. Now, useEffect will run on componentDidMount, componentWillUnmount, and if data was updated, componentDidUpdate. **This argument can be empty**— you can choose to pass in an empty array. In this case, only componentDidMount and componentWillUnmount will ever fire. But, you do have to specify this argument if you set some state inside of it.
+
+**Points to be noted**
+- Runs on every update
+  ```jsx
+    useEffect(() =>{
+    });
+  ```
+- Runs ONCE after initial rendering
+  ```jsx
+    useEffect(() =>{
+    },[]);
+  ```
+- Runs ONCE after initial rendering and after every rendering ONLY if dependency changes.
+  ```jsx
+    useEffect(() =>{
+    },[Dependencies]);
+  ```
 
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)
