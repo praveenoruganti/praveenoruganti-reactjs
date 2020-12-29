@@ -466,4 +466,8 @@ function Child({ onLoad }) {
 
 Now the **handleLoad** function will never change, thus the useEffect in the Child component will not be called on each re-render.
 
+## React Component Lifecycle methods in Hooks
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/7_Hooks/images/lifecycle.jpg)
+
 ### [Buy me a Coffee](http://bit.ly/2WryDT8)
