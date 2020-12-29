@@ -21,7 +21,7 @@ Here is a flowchart representation of lifecycle methods:
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/6_Component%20Lifecycle/images/lifecycleflow.png)
 
-**Initialization**
+## Initialization
 
 This is the phase in which the component is going to start its journey by setting up the state (see below) and the props. This is usually done inside the constructor method (see below to understand the initialization phase better).
 
@@ -40,7 +40,7 @@ class Initialize extends React.Component {
 }
 ```
 
-**Mounting**
+## Mounting
 
 The name is self-explanatory. Mounting is the phase in which our React component mounts on the DOM (i.e., is created and inserted into the DOM).
 
@@ -82,7 +82,7 @@ class LifeCycle extends React.Component {
 
 ```
 
-**Updating**
+## Updating
 
 This is the third phase through which our component passes. After the mounting phase where the component has been created, the update phase comes into the scene. This is where component’s state changes and hence, re-rendering takes place.
 
@@ -147,7 +147,7 @@ class LifeCycle extends React.Component {
 
 ```
 
-**Unmounting**
+## Unmounting
 
 This is the last phase in the component’s lifecycle. As the name clearly suggests, the component gets unmounted from the DOM in this phase. The method that is available in this phase is:
 
