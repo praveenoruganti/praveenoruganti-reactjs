@@ -1,6 +1,6 @@
 # All About useMemo and useCallback
 
-Let's see useMemo hook and the useCallback hook since they are both crucial for creating performant React applications through the use of memoization.
+Lets see useMemo hook and the useCallback hook since they are both crucial for creating performant React applications through the use of memoization.
 
 ## What Is Memoization?
 Memoization is essentially just caching. Imagine a complex function that is slow to run which takes a as an argument. In order to speed up this function, you can cache the results of running the function so that when the function is run with the same inputs you can use the cached value instead of recomputing the value. This would look something like this.

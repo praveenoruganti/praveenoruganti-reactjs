@@ -5,7 +5,7 @@ There might be instances where you have been using the same repetitive and redun
 **Okay, But what are they?**
 These are normal javascript functions which can use other hooks inside of it and contain a common stateful logic that can be reused within multiple components. These functions are prefixed with the word use.
 
-Let's say you have 2 functions (components) which implement some common logic. You can create a third function with this common logic and implement it in the other two functions. After all, hooks are just functions.
+Lets say you have 2 functions (components) which implement some common logic. You can create a third function with this common logic and implement it in the other two functions. After all, hooks are just functions.
 
 **Custom hooks means fewer keystrokes and less repetitive code.**
 
@@ -37,7 +37,7 @@ function Counter() {
 
 It works well. I always prefer creating the component first and then extracting out the stateful logic from that function(component) and then putting it into another function(custom hook) and then just doing some refactoring so the component works well with our hook.
 
-Let's take the useEffect section out of the component and put it inside our new function useDocumentTitle.
+Lets take the useEffect section out of the component and put it inside our new function useDocumentTitle.
 
 ```jsx
 import React, { useState, useEffect } from 'react';

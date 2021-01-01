@@ -8,7 +8,7 @@ const element = <h1>Hello, world</h1>;
 Unlike browser DOM elements, React elements are plain objects, and are cheap to create. React DOM takes care of updating the DOM to match the React elements.
 
 ## Rendering an Element into the DOM
-Let's say there is a <div> somewhere in your HTML file:
+Lets say there is a <div> somewhere in your HTML file:
 ```HTML
 <div id="root"></div>
 ```

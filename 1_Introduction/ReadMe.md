@@ -31,7 +31,7 @@ For example: Dribble, Harvard's Official site.
 
 ## React JS Roadmap
 
-Let's see the React JS roadmap and go deeper into the concepts.
+Lets see the React JS roadmap and go deeper into the concepts.
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/roadmap.jpg)
 
@@ -43,7 +43,7 @@ Let's see the React JS roadmap and go deeper into the concepts.
 
 ## What is meant by Virtual DOM?
 
-Let's see how exactly renders the webpage
+Lets see how exactly renders the webpage
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/virtualdom.png)
 

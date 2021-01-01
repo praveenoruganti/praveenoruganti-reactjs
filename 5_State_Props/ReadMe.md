@@ -81,7 +81,7 @@ this.setState({         // correct
 
 **What happens when state changes?**
 
-OK, why must we use setState()? Why do we even need the state object itself? If you're asking these questions, don't worry – you'll understand state soon :) Let me answer.
+OK, why must we use setState()? Why do we even need the state object itself? If you are asking these questions, don't worry – you'll understand state soon :) Let me answer.
 
 A change in the state happens based on user-input, triggering an event, and so on. Also, React components (with state) are rendered based on the data in the state. State holds the initial information.
 

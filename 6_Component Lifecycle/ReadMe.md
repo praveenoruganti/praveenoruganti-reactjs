@@ -1,6 +1,6 @@
 # All About React JS Component Lifecycle
 
-Let's see React JS Component Lifecyle
+Lets see React JS Component Lifecyle
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/6_Component%20Lifecycle/images/lifecycle.png)
 
