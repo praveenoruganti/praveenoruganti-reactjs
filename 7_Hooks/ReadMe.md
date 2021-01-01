@@ -66,4 +66,4 @@ Here with the different types of React Hooks.
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/7_Hooks/images/lifecycle.jpg)
 
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+

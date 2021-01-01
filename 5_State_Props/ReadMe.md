@@ -110,4 +110,4 @@ If your project is not using React Hooks, then you can only use state in class c
 - State data can be modified by its own component, but is private (cannot be accessed from outside).
 - Props can only be passed from parent component to child (unidirectional flow).
 - Modifying state should happen with the setState() method.
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+

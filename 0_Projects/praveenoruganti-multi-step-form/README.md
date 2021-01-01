@@ -3,4 +3,3 @@
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/0_Projects/praveenoruganti-multi-step-form/src/images/screenshot.PNG "Multi Step Form")
 
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)

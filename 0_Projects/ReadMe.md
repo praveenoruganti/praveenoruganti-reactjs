@@ -19,4 +19,4 @@ Here with my React JS Apps
 
 **Note:** I will continue to develop more React JS Apps and will update the same here going forward.
 
-### [Buy me a Coffee](http://bit.ly/2WryDT8)
+
