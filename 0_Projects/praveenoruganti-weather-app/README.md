@@ -2,7 +2,7 @@
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/0_Projects/praveenoruganti-weather-app/src/images/screenshot.png "Weather App")
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+### [Buy me a Book](https://bit.ly/388sUbE)
 
 
 ### Connect with me:

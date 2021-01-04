@@ -55,7 +55,7 @@ Even though we create an element describing the whole UI tree on every tick, onl
 In our experience, thinking about how the UI should look at any given moment, rather than how to change it over time, eliminates a whole class of bugs.
 
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+### [Buy me a Book](https://bit.ly/388sUbE)
 
 
 ### Connect with me:

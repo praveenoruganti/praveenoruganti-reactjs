@@ -7,7 +7,7 @@
 https://quizapi.io/api/v1/questions?apiKey=zAsLsmM1UL72R2ytFmi8ElbmmnNuJk6q7gjG1XZh
 
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+### [Buy me a Book](https://bit.ly/388sUbE)
 
 ### Connect with me:
 

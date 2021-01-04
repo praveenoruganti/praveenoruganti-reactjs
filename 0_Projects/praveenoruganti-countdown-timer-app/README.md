@@ -2,7 +2,7 @@
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/0_Projects/praveenoruganti-countdown-timer-app/src/images/screenshot.PNG "Count Down Timer App")
 
-### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
+### [Buy me a Book](https://bit.ly/388sUbE)
 
 
 ### Connect with me:
