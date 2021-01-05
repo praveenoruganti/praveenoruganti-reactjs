@@ -55,11 +55,10 @@ export const quizData = [
     },
     {
       id: 10,
-      question: `What are the two ways that data gets handled in React?`,
-      options: [`Keys`, `Props`, `Elements`,`Ref`],
-      answer: `Props`
+      question: `What is Babel?`,
+      options: [` A transpiler`, `Both Compiler and Transpilar`, `A Compiler`,`An interpreter`],
+      answer: `Both Compiler and Transpilar`
     }
-    
-    
+
+
   ];
-  
