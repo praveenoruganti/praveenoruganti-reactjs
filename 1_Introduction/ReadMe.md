@@ -117,7 +117,7 @@ You will see this in browser
 
 You can check out the code in [repo](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/1_Introduction/Demo/praveenorugantitech-reactjs-samples).
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 
 

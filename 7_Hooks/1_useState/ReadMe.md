@@ -32,6 +32,6 @@ function Example() {
 - useState() hook and this.setState() (inside class components) update the state variable and the component output asynchronously.
 - Calling the setter function setValue(newValue) of useState() hook (or this.setState() of class components) doesn't exactly update the state, but rather schedules a state update.
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 

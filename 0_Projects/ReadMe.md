@@ -19,7 +19,7 @@ Here with my React JS Apps
 
 **Note:** I will continue to develop more React JS Apps and will update the same here going forward.
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 
 

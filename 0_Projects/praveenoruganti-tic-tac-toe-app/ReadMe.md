@@ -2,5 +2,5 @@
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/0_Projects/praveenoruganti-tic-tac-toe-app/src/images/screenshot.PNG "Tic Tac Toe App")
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 

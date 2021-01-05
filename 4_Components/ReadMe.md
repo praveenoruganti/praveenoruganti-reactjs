@@ -59,6 +59,6 @@ React treats components starting with lowercase letters as DOM tags. For example
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/4_Components/images/components.PNG)
 
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 

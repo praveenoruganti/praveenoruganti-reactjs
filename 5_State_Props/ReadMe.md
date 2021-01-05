@@ -111,6 +111,6 @@ If your project is not using React Hooks, then you can only use state in class c
 - Props can only be passed from parent component to child (unidirectional flow).
 - Modifying state should happen with the setState() method.
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 

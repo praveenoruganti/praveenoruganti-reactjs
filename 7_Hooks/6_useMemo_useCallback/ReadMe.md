@@ -148,7 +148,7 @@ function Child({ onLoad }) {
 
 Now the **handleLoad** function will never change, thus the useEffect in the Child component will not be called on each re-render.
 
-### [Buy me a Book](https://bit.ly/388sUbE)
+### [Buy me a Book](https://www.buymeacoffee.com/praveenoruganti)
 
 
 
