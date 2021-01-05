@@ -7,7 +7,7 @@ Initial release of React JS happened on May 29, 2013.
 React JS is an Open Sourced JavaScript library for building fast and interactive User Interfaces.It lets you compose complex UIs from small and isolated pieces of code called **components**.
 
 ## Why React JS is so popular?
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/reactjs.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/reactjs.png)
 
 ## Single Page Applications(SPAs)
 A single page application is an app that works inside a browser and does not require page load during use.
@@ -33,7 +33,7 @@ For example: Dribble, Harvard's Official site.
 
 Lets see the React JS roadmap and go deeper into the concepts.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/roadmap.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/roadmap.jpg)
 
 ## Aspects of React JS
 
@@ -45,7 +45,7 @@ Lets see the React JS roadmap and go deeper into the concepts.
 
 Lets see how exactly renders the webpage
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/virtualdom.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/virtualdom.png)
 
 Rendering engines which is responsible for displaying or rendering the webpage on the browser screen parses the HTML page to create DOM.
 
@@ -61,7 +61,7 @@ Like an actual DOM, Virtual DOM is a node tree that lists the elements and their
 
 Model gives data to view, if the DOM is empty then React will create a DOM for it.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/virtualdom1.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/virtualdom1.png)
 
 Updating virtual DOM in React JS is faster because React JS uses
 - Efficient diff algorithm
@@ -73,7 +73,7 @@ Updating virtual DOM in React JS is faster because React JS uses
 React JS follows unidirectional data flow or one way data binding.
 Throughout the application the data flows in a single direction which gives you better control over it.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/databinding.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/databinding.png)
 
 ## What is Server side rendering?
 Server side rendering allows you to pre-render the initial state of react components at the server side only.
@@ -97,7 +97,7 @@ Now let's see what are all the dependencies needed for React JS installation in 
 ## Create React App
 For creating application, use the below command
 
-**npx create-react-app praveenoruganti-reactjs-samples**
+**npx create-react-app praveenorugantitech-reactjs-samples**
 
 The create-react-app tool installs all the libraries and packages required to build a React Application. It creates a default configuration for our react project. It also add some starter files in the newly created application.
 
@@ -113,9 +113,9 @@ For running the application, use the below command
 
 You will see this in browser
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/1_Introduction/images/reactjs1.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/reactjs1.png)
 
-You can check out the code in [repo](https://github.com/praveenoruganti/praveenoruganti-reactjs/tree/master/1_Introduction/Demo/praveenoruganti-reactjs-samples).
+You can check out the code in [repo](https://github.com/praveenoruganti/praveenorugantitech-reactjs/tree/master/1_Introduction/Demo/praveenorugantitech-reactjs-samples).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

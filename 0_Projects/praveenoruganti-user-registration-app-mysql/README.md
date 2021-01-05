@@ -12,7 +12,7 @@ npm install --save cors
 npm start
 
 - git init
-- git remote add origin https://github.com/praveenoruganti/praveenoruganti-user-registration-app-mysql.git
+- git remote add origin https://github.com/praveenoruganti/praveenorugantitech-user-registration-app-mysql.git
 - git add .
 - git commit -m "updated"
 - git push origin master

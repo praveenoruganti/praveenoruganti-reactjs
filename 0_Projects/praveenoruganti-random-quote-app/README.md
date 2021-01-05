@@ -1,6 +1,6 @@
 ### Praveen Oruganti Random Quote App using React JS
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/0_Projects/praveenoruganti-random-quote-app/src/images/screenshot.PNG "Random Quote App")
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/0_Projects/praveenorugantitech-random-quote-app/src/images/screenshot.PNG "Random Quote App")
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 

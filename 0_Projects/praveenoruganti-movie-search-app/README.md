@@ -1,6 +1,6 @@
 ### Praveen Oruganti Movie Search App using React JS
  
- ![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/0_Projects/praveenoruganti-movie-search-app/src/images/screenshot.PNG "Movie Search App")
+ ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/0_Projects/praveenorugantitech-movie-search-app/src/images/screenshot.PNG "Movie Search App")
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)

@@ -53,17 +53,17 @@ React provides a few built-in Hooks like useState. You can also create your own 
 
 Here with the different types of React Hooks.
 
-- [useState](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/1_useState)
-- [useEffect](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/2_useEffect)
-- [useContext](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/3_useContext)
-- [useRef](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/4_useRef)
-- [useReducer](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/5_useReducer)
-- [useMemo and useCallback](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/6_useMemo_useCallback)
-- [Custom Hook](https://praveenoruganti.github.io/praveenoruganti-reactjs/7_Hooks/7_Custom_Hook)
+- [useState](https://praveenoruganti.github.io/praveenorugantitech-reactjs/7_Hooks/1_useState)
+- [useEffect](https://praveenoruganti.github.io/praveenorugantitech-reactjs/7_Hooks/2_useEffect)
+- [useContext](https://praveenoruganti.github.io/praveenorugantitech-reactjs/7_Hooks/3_useContext)
+- [useRef](https://praveenoruganti.github.io/praveenorugantitech-reactjs/7_Hooks/4_useRef)
+- [useReducer](https://praveenoruganti.github.io/praveenorugantitech-reactjs/7_Hooks/5_useReducer)
+- [useMemo and useCallback](https://praveenoruganti.github.io/praveenorugantitech-reactjs/7_Hooks/6_useMemo_useCallback)
+- [Custom Hook](https://praveenoruganti.github.io/praveenorugantitech-reactjs/7_Hooks/7_Custom_Hook)
 
 ## React Component Lifecycle methods in Hooks
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenoruganti/praveenoruganti-reactjs/master/7_Hooks/images/lifecycle.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/7_Hooks/images/lifecycle.jpg)
 
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
