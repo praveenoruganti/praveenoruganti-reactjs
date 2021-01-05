@@ -1,4 +1,4 @@
-### Praveen Oruganti Messenger App using React JS
+### Praveen Oruganti Messenger Clone using React JS
 https://praveenoruganti-msg-clone.firebaseapp.com/
 
 
