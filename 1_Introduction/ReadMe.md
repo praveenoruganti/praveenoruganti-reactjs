@@ -115,7 +115,7 @@ You will see this in browser
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/reactjs1.png)
 
-You can check out the code in [repo](https://github.com/praveenoruganti/praveenorugantitech-reactjs/tree/master/1_Introduction/Demo/praveenorugantitech-reactjs-samples).
+You can check out the code in [repo](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/1_Introduction/Demo/praveenorugantitech-reactjs-samples).
 
 ### [Buy me a Book](https://bit.ly/388sUbE)
 
