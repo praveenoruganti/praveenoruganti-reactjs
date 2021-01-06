@@ -2,9 +2,6 @@
 
 Here with my React JS Apps
 
-- [Amazon Clone](https://praveenoruganti-amaz.firebaseapp.com/)
-- [Twitter Clone](https://praveenoruganti-twitter-clone.firebaseapp.com/)
-- [Messenger](https://praveenoruganti-msg-clone.firebaseapp.com/)
 - [GitHub Search](https://praveenoruganti-github-search.firebaseapp.com/)
 - [Weather](https://praveenoruganti-weather-app.firebaseapp.com/)
 - [Calculator](https://praveen-calculator-app.firebaseapp.com/)
@@ -16,6 +13,11 @@ Here with my React JS Apps
 - [Random Quote](https://praveen-random-quote-app.firebaseapp.com/)
 - [Tic Tac Toe](http://praveen-tic-tac-toe-app.firebaseapp.com/)
 - [Todo](http://praveenoruganti-todo-app.firebaseapp.com/)
+- [Amazon Clone](https://praveenoruganti-amaz.firebaseapp.com/)
+- [Twitter Clone](https://praveenoruganti-twitter-clone.firebaseapp.com/)
+- [Messenger Clone](https://praveenoruganti-msg-clone.firebaseapp.com/)
+- [WhatsApp Clone](https://praveenoruganti-whatsapp.firebaseapp.com/)
+
 
 **Note:** I will continue to develop more React JS Apps and will update the same here going forward.
 
