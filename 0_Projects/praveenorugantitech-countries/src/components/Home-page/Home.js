@@ -14,7 +14,7 @@ function Home() {
         backgroundColor: dark ? 'hsl(207, 26%, 17%)' : 'hsl(0, 0%, 98%)'
     }
 
-    document.title = "Praveen Oruganti Countries"
+    document.title = "Countries Data"
 
     return (
         <div>
