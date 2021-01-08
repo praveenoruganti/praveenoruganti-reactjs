@@ -1,27 +1,26 @@
-# All About React JS Apps
+# All About my React JS Apps
 
-Here with my React JS Apps
 
-- [GitHub Search](https://praveenoruganti-github-search.firebaseapp.com/)
-- [Countries Data](https://praveenoruganti-countries.firebaseapp.com/)
-- [Weather Forecast](https://praveenoruganti-weather-app.firebaseapp.com/)
-- [Calculator](https://praveen-calculator-app.firebaseapp.com/)
-- [Countdown Timer](https://praveencountdown-timer-app.firebaseapp.com/)
-- [Meme Generator](https://praveen-meme-generator.firebaseapp.com/)
-- [Pagination](https://praveenorugantitech-pagination.firebaseapp.com/)
-- [Movie Search](https://praveenorugantitech-movie.firebaseapp.com/)
-- [Piano](https://praveenoruganti-piano-app.firebaseapp.com/)
-- [Quiz](https://praveenoruganti-quiz-app.firebaseapp.com/)
-- [Random Quote](https://praveen-random-quote-app.firebaseapp.com/)
-- [Tic Tac Toe](https://praveen-tic-tac-toe-app.firebaseapp.com/)
-- [Todo List](https://praveenoruganti-todo-app.firebaseapp.com/)
-- [Step Form](https://praveenorugantitech-step-form.firebaseapp.com)
-- [Multi Step Form](https://praveen-multi-step-form.firebaseapp.com/)
-- [User Registration](https://praveenoruganti-user-reg.firebaseapp.com/)
-- [Amazon Clone](https://praveenoruganti-amaz.firebaseapp.com/)
-- [Twitter Clone](https://praveenoruganti-twitter-clone.firebaseapp.com/)
-- [Messenger Clone](https://praveenoruganti-msg-clone.firebaseapp.com/)
-- [WhatsApp Clone](https://praveenoruganti-whatsapp.firebaseapp.com/)
+- [GitHub Search](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-github-search/)
+- [Countries Data](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-countries/)
+- [Weather Forecast](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-weather/)
+- [Calculator](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-calculator/)
+- [Countdown Timer](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-countdown-timer/)
+- [Meme Generator](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-meme-generator/)
+- [Pagination](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-pagination/)
+- [Movie Search](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-movie/)
+- [Piano](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-piano/)
+- [Quiz](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-quiz/)
+- [Random Quote](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-random-quote/)
+- [Tic Tac Toe](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-tic-tac-toe/)
+- [Todo List](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-todo/)
+- [Step Form](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-step-form/)
+- [Multi Step Form](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-multi-step-form/)
+- [User Registration](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-user-registration/)
+- [Amazon Clone](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-amazon-clone/)
+- [Twitter Clone](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-twitter-clone/)
+- [Messenger Clone](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-messenger-clone/)
+- [WhatsApp Clone](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-whatsapp-clone/)
 
 
 
