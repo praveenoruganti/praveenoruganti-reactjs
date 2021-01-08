@@ -48,7 +48,7 @@ export default function API() {
                     <div className="col">
                         <div className="card">
                             <div className="card-header bg-secondary text-white">
-                                <h3>Praveen Oruganti GitHub User Search</h3>
+                                <h3>GitHub User Search</h3>
                             </div>
                             <div className="card-body">
                                 <form className="form-inline" onSubmit={searchUser}>

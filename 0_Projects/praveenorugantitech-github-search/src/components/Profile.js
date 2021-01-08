@@ -18,10 +18,10 @@ const Profile = (props) => {
                     </div>
 
                     <div className="col-md-9">
-                    {
-                        Object.keys(props).length !== 0 && <ProfileCardDetails profile={props.profile} />
+                        {
+                            Object.keys(props).length !== 0 && <ProfileCardDetails profile={props.profile} />
 
-                    }
+                        }
 
                     </div>
                 </div>
