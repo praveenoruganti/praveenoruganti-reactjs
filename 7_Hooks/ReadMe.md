@@ -53,13 +53,13 @@ React provides a few built-in Hooks like useState. You can also create your own 
 
 Here with the different types of React Hooks.
 
-- [useState](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/1_useState)
-- [useEffect](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/2_useEffect)
-- [useContext](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/3_useContext)
-- [useRef](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/4_useRef)
-- [useReducer](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/5_useReducer)
-- [useMemo and useCallback](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/6_useMemo_useCallback)
-- [Custom Hook](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/7_Custom_Hook)
+- [useState](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/1_useState){:target="_blank"}
+- [useEffect](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/2_useEffect){:target="_blank"}
+- [useContext](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/3_useContext){:target="_blank"}
+- [useRef](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/4_useRef){:target="_blank"}
+- [useReducer](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/5_useReducer){:target="_blank"}
+- [useMemo and useCallback](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/6_useMemo_useCallback){:target="_blank"}
+- [Custom Hook](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/7_Hooks/7_Custom_Hook){:target="_blank"}
 
 ## React Component Lifecycle methods in Hooks
 
