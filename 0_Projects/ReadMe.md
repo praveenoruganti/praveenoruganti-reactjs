@@ -1,4 +1,4 @@
-# All About my React JS Apps
+# Praveen Oruganti Tech React JS Projects
 
 
 - [GitHub Search](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-github-search/){:target="_blank"}
@@ -23,8 +23,7 @@
 - [WhatsApp Clone](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-whatsapp-clone/){:target="_blank"}
 
 
-
-**Note:** I will continue to develop more React JS Apps and will update the same here going forward.
+**Note:** I will continue to develop more React JS Projects and will update the same here going forward.
 
 
 
