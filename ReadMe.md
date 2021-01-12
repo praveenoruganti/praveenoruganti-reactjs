@@ -1,4 +1,4 @@
-# Praveen Oruganti Tech React JS Course
+# React JS Course
 
 - [Introduction](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/1_Introduction){:target="_blank"}
 - [JSX](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/2_JSX){:target="_blank"}
