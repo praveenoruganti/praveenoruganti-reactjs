@@ -1,4 +1,4 @@
-# All About State and Props
+# State and Props
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 

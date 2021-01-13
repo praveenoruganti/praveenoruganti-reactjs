@@ -1,4 +1,4 @@
-# All About React JS Components
+# React JS Components
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
