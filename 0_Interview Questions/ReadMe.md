@@ -6656,8 +6656,3 @@ ReactDOM.render(
      **Note:** You still need to import React to use Hooks.
 
 
-You can also check out my [ebook](https://github.com/praveenorugantitech/praveenorugantitech-ebooks/raw/master/React%20JS%20Interview%20questions.pdf) for more React JS Interview Questions.
-
-
-
-
