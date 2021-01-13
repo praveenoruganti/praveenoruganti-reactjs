@@ -1,7 +1,7 @@
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 
-# All About React JS Interview Questions
+# React JS Interview Questions
 
 ### Table of Contents
 
