@@ -1,7 +1,8 @@
+# useMemo and useCallback Hooks
+
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 
-# All About useMemo and useCallback
 
 Lets see useMemo hook and the useCallback hook since they are both crucial for creating performant React applications through the use of memoization.
 

@@ -1,7 +1,8 @@
+# Rendering Elements
+
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 
-# Rendering Elements
 Elements are the smallest building blocks of React apps.
 
 An element describes what you want to see on the screen:

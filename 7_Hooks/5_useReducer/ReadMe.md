@@ -1,7 +1,6 @@
+# useReducer Hook
+
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
-
-
-# All About useReducer
 
 ```jsx
 const [ state, dispatch ] = useReducer(reducer, initialState)

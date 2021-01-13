@@ -1,7 +1,7 @@
+# React JS Interview Questions
+
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
-
-# React JS Interview Questions
 
 ### Table of Contents
 

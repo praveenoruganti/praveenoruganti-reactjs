@@ -1,7 +1,9 @@
+# React JS Hooks
+
+
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 
-# All About React JS Hooks
 
 Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class.
 
