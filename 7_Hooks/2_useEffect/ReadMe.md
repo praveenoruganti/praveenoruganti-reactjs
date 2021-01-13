@@ -1,3 +1,6 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
+
 # All About useEffect
 
 - By using this, you tell React that your component needs to do something after render.
