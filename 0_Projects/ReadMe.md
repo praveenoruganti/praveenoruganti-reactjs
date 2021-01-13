@@ -3,7 +3,6 @@
 
 # React JS Projects
 
-
 - **GitHub Search** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-github-search/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-github-search){:target="_blank"}
 - **Countries Data** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-countries/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-countries){:target="_blank"}
 - **Weather Forecast** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-weather/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projectspraveenorugantitech-weather){:target="_blank"}

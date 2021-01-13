@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <AppBar>
         <Toolbar>
-          <Typography variant="h6">Praveen Oruganti Calculator App</Typography>
+          <Typography variant="h6">Calculator</Typography>
         </Toolbar>
       </AppBar>
       <Calculator />
