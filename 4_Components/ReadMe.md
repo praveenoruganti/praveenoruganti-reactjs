@@ -6,19 +6,22 @@ Components let you split the UI into independent, reusable pieces, and think abo
 
 A component is a JavaScript class or function that optionally accepts some data and returns a React elements that describes how a section of the UI should appear.
 
-There are 2 types of components:
-- Class-based Components.
-- Functional Components.
+Components can be:
+
+- Functional Component / Presentational Component / Stateless Component / Dumb Component
+- Class Component / Container Component/ Statefull Component / Smart Component
 
 ## Class Components
+
 - Class components make use of ES6 class and extend the Component class in React.
 - Sometimes called **smart** or **stateful** components as they tend to implement logic and state.
 - React lifecycle methods can be used inside class components (for example, componentDidMount).
 - You pass props down to class components and access them with **this.props**.
 
 You can also use an ES6 class to define a component
+
 ```jsx
-import React from 'react';
+import React from "react";
 
 class Welcome extends React.Component {
   render() {
@@ -26,9 +29,10 @@ class Welcome extends React.Component {
   }
 }
 export default Welcome;
-
 ```
+
 ## Function Components
+
 - Function components are basic JavaScript functions. These are typically arrow functions but can also be created with the regular function keyword.
 - Sometimes referred to as **dumb** or **stateless** components as they simply accept data and display them in some form; that is they are mainly responsible for rendering UI.
 - React lifecycle methods (for example, componentDidMount) cannot be used in function components.
@@ -40,11 +44,11 @@ export default Welcome;
 The simplest way to define a component is to write a JavaScript function.
 
 ```jsx
-import React from 'react';
+import React from "react";
 
 const Greeting = (props) => {
-    return (<h1>Hello, {props.name}</h1>)
-}
+  return <h1>Hello, {props.name}</h1>;
+};
 export default Greeting;
 ```
 
@@ -59,8 +63,3 @@ React treats components starting with lowercase letters as DOM tags. For example
 ## Difference between Functional and Class components
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/4_Components/images/components.PNG)
-
-
-
-
-
