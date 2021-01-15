@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'
+import Header from './components/Header'
+import Main from './components/Main'
+import Footer from './components/Footer'
+import './App.css'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    const title = 'Getting Started With React'
+    const subtitle = 'A JavaScript Library'
+    const author = {
+      firstName: 'Praveen',
+      lastName: 'Oruganti'
+    }
+    const date = 'Date: Jan 01, 2020'
+    const techs = ['HTML', 'CSS', 'JavaScript']
+    const copyRight = new Date().getFullYear()
+
+    return (
+      <div className='app'>
+        <Header title={title} subtitle={subtitle} author={author} date={date} />
+        <Main techs={techs} />
+        <Footer copyRight={copyRight} />
+      </div>
+    )
+  }
 }
 
-export default App;
+export default App
