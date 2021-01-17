@@ -1,6 +1,6 @@
 # useRef Hook
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 ```jsx
 const refContainer = useRef(initialValue);

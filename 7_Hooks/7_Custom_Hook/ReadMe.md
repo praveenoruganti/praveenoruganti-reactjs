@@ -1,6 +1,6 @@
 # Custom Hook
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 
 There might be instances where you have been using the same repetitive and redundant stateful logic inside multiple components. We were able to handle this situation by relying on Render props and Higher Order Components. But with hooks, we can do it in a much simpler and cleaner way, Thanks to the Custom hooks.

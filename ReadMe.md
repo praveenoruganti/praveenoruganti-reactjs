@@ -1,6 +1,6 @@
 # React JS Course
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 - [Introduction](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/1_Introduction){:target="_blank"}
 - [JSX](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/2_JSX){:target="_blank"}

@@ -1,6 +1,6 @@
 # React JS Components
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
 
 Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
 
