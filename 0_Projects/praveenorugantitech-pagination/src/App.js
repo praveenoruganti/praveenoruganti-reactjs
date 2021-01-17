@@ -1,44 +1,75 @@
-import React, { useState, useEffect } from 'react';
-import Posts from './components/Posts';
-import Pagination from './components/Pagination';
-import axios from 'axios';
-import './App.css';
-
-const App = () => {
-  const [posts, setPosts] = useState([]);
-  const [loading, setLoading] = useState(false);
-  const [currentPage, setCurrentPage] = useState(1);
-  const [postsPerPage] = useState(10);
+import React, { useState, useEffect } from 'react'
+import { useFetch } from './useFetch'
+import Follower from './Follower'
+function App() {
+  const { loading, data } = useFetch()
+  const [page, setPage] = useState(0)
+  const [followers, setFollowers] = useState([])
 
   useEffect(() => {
-    const fetchPosts = async () => {
-      setLoading(true);
-      const res = await axios.get('https://jsonplaceholder.typicode.com/posts');
-      setPosts(res.data);
-      setLoading(false);
-    };
+    if (loading) return
+    setFollowers(data[page])
+  }, [loading, page])
 
-    fetchPosts();
-  }, []);
+  const nextPage = () => {
+    setPage((oldPage) => {
+      let nextPage = oldPage + 1
+      if (nextPage > data.length - 1) {
+        nextPage = 0
+      }
+      return nextPage
+    })
+  }
+  const prevPage = () => {
+    setPage((oldPage) => {
+      let prevPage = oldPage - 1
+      if (prevPage < 0) {
+        prevPage = data.length - 1
+      }
+      return prevPage
+    })
+  }
 
-  // Get current posts
-  const indexOfLastPost = currentPage * postsPerPage;
-  const indexOfFirstPost = indexOfLastPost - postsPerPage;
-  const currentPosts = posts.slice(indexOfFirstPost, indexOfLastPost);
-
-  // Change page
-  const paginate = pageNumber => setCurrentPage(pageNumber);
+  const handlePage = (index) => {
+    setPage(index)
+  }
 
   return (
-    <div className='container mt-5'>     
-      <Posts posts={currentPosts} loading={loading} />
-      <Pagination
-        postsPerPage={postsPerPage}
-        totalPosts={posts.length}
-        paginate={paginate}
-      />
-    </div>
-  );
-};
+    <main>
+      <div className='section-title'>
+        <h1>{loading ? 'loading...' : 'My GitHub Followers'}</h1>
+        <div className='underline'></div>
+      </div>
+      <section className='followers'>
+        <div className='container'>
+          {followers.map((follower) => {
+            return <Follower key={follower.id} {...follower} />
+          })}
+        </div>
+        {!loading && (
+          <div className='btn-container'>
+            <button className='prev-btn' onClick={prevPage}>
+              prev
+            </button>
+            {data.map((item, index) => {
+              return (
+                <button
+                  key={index}
+                  className={`page-btn ${index === page ? 'active-btn' : null}`}
+                  onClick={() => handlePage(index)}
+                >
+                  {index + 1}
+                </button>
+              )
+            })}
+            <button className='next-btn' onClick={nextPage}>
+              next
+            </button>
+          </div>
+        )}
+      </section>
+    </main>
+  )
+}
 
-export default App;
+export default App
