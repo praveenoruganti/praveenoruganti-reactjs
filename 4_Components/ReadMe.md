@@ -1,7 +1,5 @@
 # React JS Components
 
-
-
 Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
 
 A component is a JavaScript class or function that optionally accepts some data and returns a React elements that describes how a section of the UI should appear.

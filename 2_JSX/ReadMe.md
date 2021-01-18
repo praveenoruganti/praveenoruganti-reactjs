@@ -1,8 +1,5 @@
 # JSX
 
-
-
-
 ## What is JSX?
 
 ```jsx
