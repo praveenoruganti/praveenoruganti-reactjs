@@ -10,7 +10,7 @@ const AppProvider = ({ children }) => {
   const [index, setIndex] = useState(0);
   const [correct, setCorrect] = useState(0);
   const [error, setError] = useState(false);
-  const [category, setCategory] = useState("javascript");
+  const [category, setCategory] = useState("JavaScript");
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const fetchQuestions = async () => {
@@ -18,7 +18,7 @@ const AppProvider = ({ children }) => {
     setWaiting(false);
     const response = await axios(
       `https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/QuizData/${category}.json`
-    ).catch((err) => console.log(err));
+    ).catch((err) => alert(`${category} Challenge is not available at the moment`));
     if (response) {
       const data = response.data.sort(() => Math.random() - 0.5);
       if (data.length > 0) {

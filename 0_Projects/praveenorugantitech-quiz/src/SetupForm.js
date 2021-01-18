@@ -7,10 +7,7 @@ const SetupForm = () => {
     <main>
       <section className="quiz quiz-small">
         <form className="setup-form">
-          <h2>Tech Quiz</h2>
-
-          {/* category */}
-
+          <h2>Tech Challenge</h2>
           <div className="form-control">
             <label htmlFor="category">Category</label>
             <select
@@ -20,8 +17,10 @@ const SetupForm = () => {
               value={category}
               onChange={handleChange}
             >
-              <option value="javascript">JavaScript</option>
-              <option value="reactjs">ReactJS</option>
+              <option value="JavaScript">JavaScript</option>
+              <option value="ReactJS">ReactJS</option>
+              <option value="Java">Java</option>
+              <option value="SpringBoot">SpringBoot</option>
             </select>
           </div>
 

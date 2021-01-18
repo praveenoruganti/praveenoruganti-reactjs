@@ -2,7 +2,7 @@ import React from 'react'
 import { useGlobalContext } from './context'
 
 const Modal = () => {
-  const { isModalOpen, closeModal, correct, questions } = useGlobalContext()
+  const { isModalOpen, closeModal, correct, questions,category } = useGlobalContext()
   return (
     <div
       className={`${
@@ -10,7 +10,7 @@ const Modal = () => {
       }`}
     >
       <div className='modal-content'>
-        <h2>Quiz is Done!!</h2>
+        <h2>{category} Challenge is Complete!!</h2>
         <p>
           You answered {((correct / questions.length) * 100).toFixed(0)}% of
           questions correctly
