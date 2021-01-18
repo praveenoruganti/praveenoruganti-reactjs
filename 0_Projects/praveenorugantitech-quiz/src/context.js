@@ -20,7 +20,7 @@ const AppProvider = ({ children }) => {
       `https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-test/master/QuizData/${category}.json`
     ).catch((err) => console.log(err));
     if (response) {
-      const data = response.data;
+      const data = response.data.sort(() => Math.random() - 0.5);;
       if (data.length > 0) {
         setQuestions(data);
         setLoading(false);
