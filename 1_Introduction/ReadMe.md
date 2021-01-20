@@ -87,7 +87,7 @@ Although some techniques and technologies can produce similar results, they are 
 
 React JS has been tried and tested by several organizations in the world for creating high-quality and reliable front-end and making the site SEO-friendly.
 
-#10 Access to Developers
+**10 Access to Developers**
 Being one of the most popular frameworks among the developer community, React JS is a framework which many developers opt to learn.
 
 Hence, finding a React JS developer will be easier for you. Moreover, it is simpler to train a developer with React JS, who has a basic knowledge of JavaScript and front-end development.
