@@ -7,9 +7,13 @@ Initial release of React JS happened on May 29, 2013.
 React JS is an Open Sourced JavaScript library for building fast and interactive User Interfaces. It lets you compose complex UIs from small and isolated pieces of code called **components**.
 
 ## Why React JS is so popular?
+
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/reactjs.png)
 
+Developers often use React as a base for developing single-page web applications and then use other libraries to provide extra support to their web application.
+
 ## Single Page Applications(SPAs)
+
 A single page application is an app that works inside a browser and does not require page load during use.
 
 SPAs are all about serving an outstanding user experience(UX) by trying to imitate a natural environment in the browser - no page reloads, no extra wait time.It is just one HTML page that you visit which then loads all other content using JavaScript.
@@ -17,11 +21,77 @@ SPAs are all about serving an outstanding user experience(UX) by trying to imita
 For example: Gmail, Facebook, Instagram, Trello.
 
 ## Multiple Page Applications(MPAs)
+
 Multi-page applications work in a **traditional** way. Every change like, display the data or submit the data or submit data back to server, sends a request to the server to render a new page in the browser.
 
 Whenever a user navigates from one page to another, a request is sent to the server to send a new HTML file for that URL. The server returns a file and then HTML file is loaded in the browser.
 
 For example: Dribble, Harvard's Official site.
+
+## Why Startups and Enterprises love React JS (Top 10 Reasons)?
+
+**1 Virtual DOM**
+Virtual DOM is a modern-day marvel for businesses. It helps you create a data structure cache memory within a memory unit, which allows you to update the browser DOM more efficiently.
+
+**2 Development Speed**
+Time-to-market is one of the most crucial elements of any business, be it a startup or an enterprise.
+
+Businesses are always looking for using technologies that help them to complete software development projects on-time and within the defined budget.
+
+React JS has a plethora of reusable components which help developers to develop and maintain an application faster. Moreover, React powers React Native, which is a robust cross-platform mobile app development tool.
+
+Having such interoperability helps businesses to build a strong mobile presence as well, along with the web.
+
+**3 Stability**
+The technology used to develop web or mobile applications must remain relevant for at least a few years. With technology growing so fast, it is evident that the tools used to create applications may get obsolete in the future.
+
+Having been backed by millions of developers and enterprises like Facebook and Instagram, the chances of it getting obsolete are negligible. React JS has been a stable technology even in the face of growing competition, such as Vue JS and Angular JS.
+
+**4 Interactive Interface**
+React JS provides an opportunity to manipulate the interface flows and designing features in a fast and easy way.
+
+You can hire React JS developers to update or develop an interface based on your tastes, desires, and principles. It can be done in two ways: loop and nest view.
+
+**5 Advance Performance**
+React JS is a pro when it comes to handling graphics on a variety of devices such as a tablet, smartphone, or desktop.
+
+It seamlessly loads any webpage on either of the devices mentioned above. React does it by automatically updating the on-page apps that do not require a reload for redrawing UI.
+
+**6 Simple to use**
+One of the prominent reasons why React is one of the most loved libraries among developers is because of its simplicity. According to many developers, it is simpler than Angular JS.
+
+React JS development simplifies the process of programming, development, and hence, administration of resources. React JS is not only a perfect framework for newbie developers but also an ideal framework for experts and experienced programmers.
+
+Although React JS is simple to use, it has got all the advanced level functions and capability that can help pro-developers to create stunning webpages.
+
+**7 Alternatives**
+Being an open-source library, React JS acts as a stone that can kill two birds at a time.
+
+Developers can use React JS as the base library as well as an alternative to other libraries such as Angular, Backbone, jQuery, and more. React JS extensions comprise of all the functions available in these libraries.
+
+Moreover, these extensions are prolonged with a broad spectrum of other functions, simplifications, additions, and useful changes, which have been implemented in React.
+
+**8 Flexible Development**
+Businesses took the arrival of React JS for granted. They thought that it was just another library which would give its share in simplifying web development.
+
+But, the truth is that React does more than simplifying web development. It has helped many developers to reduce several restrictions that hindered the process of web development.
+
+React help developers to deal with future problems and strategy to govern the web development project one of the most comfortable and flexible ways.
+
+**9 SEO-Friendly**
+Excluding the enterprises and startups in a monopoly business, every company requires to do SEO on their websites. They must rank higher on search engines. Using Node JS, React can render on servers easily.
+
+It helps search engines to crawl the web application in its final form, making it simpler for webpages to index it properly.
+
+Although some techniques and technologies can produce similar results, they are unstable and unsuitable for mission-critical applications.
+
+React JS has been tried and tested by several organizations in the world for creating high-quality and reliable front-end and making the site SEO-friendly.
+
+#10 Access to Developers
+Being one of the most popular frameworks among the developer community, React JS is a framework which many developers opt to learn.
+
+Hence, finding a React JS developer will be easier for you. Moreover, it is simpler to train a developer with React JS, who has a basic knowledge of JavaScript and front-end development.
+
 ## Prerequisites for learning React JS
 
 1. Knowledge of HTML & CSS
@@ -64,37 +134,44 @@ Model gives data to view, if the DOM is empty then React will create a DOM for i
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/virtualdom1.png)
 
 Updating virtual DOM in React JS is faster because React JS uses
+
 - Efficient diff algorithm
 - Batched update operations
 - Efficient update of sub tree only
 - Uses observable instead of dirty checking to detect change
 
 ## What is data binding?
+
 React JS follows unidirectional data flow or one way data binding.
 Throughout the application the data flows in a single direction which gives you better control over it.
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/databinding.png)
 
 ## What is Server side rendering?
+
 Server side rendering allows you to pre-render the initial state of react components at the server side only.
 
 ## React JS installation
 
 We can use online editors like
+
 - https://codesandbox.io/
 - https://jsfiddle.net/reactjs/
 - https://codepen.io/
 
 Now let's see what are all the dependencies needed for React JS installation in your environment.
+
 - Download and install npm : [https://nodejs.org/en/](https://nodejs.org/en/)
 - Download and install editor [https://code.visualstudio.com/docs/?dv=win](https://code.visualstudio.com/docs/?dv=win)
 
 ## Main components to build a React JS application are
+
 - webpack.config.js -> contains information about the dependencies and the files from where browser start rendering form.
 - HTML file -> contains the html template which is used by browser to render the elements on the webpage.
 - JSX file -> contains description off what all components we want to display on our webpage and how they will behave.
 
 ## Create React App
+
 For creating application, use the below command
 
 **npx create-react-app praveenorugantitech-reactjs-samples**
@@ -110,7 +187,6 @@ npx is a node package runner. It is used to download and run a package temporari
 For running the application, use the below command
 
 **npm start**
-
 
 **React Boilerplate**
 
@@ -144,18 +220,10 @@ It is good to know these folders and files.
 - README.md - Markdown file to write documentation
 - yarn.lock or package-lock.json - a means to lock the version of the package
 
-
-Now run the application using  **npm start** and you will see the below in browser.
+Now run the application using **npm start** and you will see the below in browser.
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/reactjs1.png)
-
 
 Now lets remove all the files, which we do not need at the moment, and leave only the files we need right now.
 
 I have created a sample react app and you can check out the code in [repo](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/1_Introduction/Demo/praveenorugantitech-reactjs-samples).
-
-
-
-
-
-
