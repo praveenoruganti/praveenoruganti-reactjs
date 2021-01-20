@@ -1,10 +1,5 @@
 # React JS Projects
 
-
-
-
-
-
 - **Link Shortner** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-link-shortner/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-link-shortner){:target="_blank"}
 - **GitHub Search** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-github-search/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-github-search){:target="_blank"}
 - **Countries Data** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-countries/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-countries){:target="_blank"}
@@ -25,7 +20,7 @@
 - **User Registration** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-user-registration/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-user-registration){:target="_blank"}
 - **Cart** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-cart/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-cart){:target="_blank"}
 - **News** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-news/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-news){:target="_blank"}
-- **News** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-cocktails/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-cocktails){:target="_blank"}
+- **Cocktails** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-cocktails/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-cocktails){:target="_blank"}
 - **LinkedIn Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-linkedin-clone/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-linkedin-clone){:target="_blank"}
 - **Amazon Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-amazon-clone/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-amazon-clone){:target="_blank"}
 - **Twitter Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-twitter-clone/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-twitter-clone){:target="_blank"}
