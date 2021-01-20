@@ -158,7 +158,7 @@ This method is called before the unmounting of the component takes place. Before
 
 ## Conclusion
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/6_Component%20Lifecycle/images/conclusion.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/6_Component%20Lifecycle/images/conclusion.jfif)
 
 
 
