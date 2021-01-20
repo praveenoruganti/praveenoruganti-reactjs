@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: rgb(190, 193, 240) !important;
+}
+
+button.btn-success {
+  margin-left: 2rem;
+  margin-top: .5rem;
+}
+
+.d-flex {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.form-group {
+  width: 40%;
+}
+
+.contact-header {
+  padding-bottom: 1rem;
+}
+
+.contact-form {
+  padding-top: 3rem;
+}
+
+.card {
+  margin-top: 2rem;
+  width: 400px;
+  text-align: center;
+  background-color: rgb(198, 216, 97) !important;
+}
+
+.card-img-top {
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  width: 10rem !important;
+  height: 10rem;
+}
