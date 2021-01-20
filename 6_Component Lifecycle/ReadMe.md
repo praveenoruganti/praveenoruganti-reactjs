@@ -156,5 +156,9 @@ This is the last phase in the component’s lifecycle. As the name clearly sugge
 This method is called before the unmounting of the component takes place. Before the removal of the component from the DOM, **componentWillUnMount** executes. This method denotes the end of the component's lifecycle.
 
 
+## Conclusion
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/6_Component%20Lifecycle/images/conclusion.jpg)
+
 
 
