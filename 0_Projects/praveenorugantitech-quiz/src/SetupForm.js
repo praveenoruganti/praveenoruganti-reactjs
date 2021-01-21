@@ -17,10 +17,18 @@ const SetupForm = () => {
               value={category}
               onChange={handleChange}
             >
-              <option value="JavaScript">JavaScript</option>
-              <option value="ReactJS">ReactJS</option>
-              <option value="Java">Java</option>
-              <option value="SpringBoot">SpringBoot</option>
+	           <option value="HTML">HTML</option>
+			   <option value="CSS">CSS</option>
+			   <option value="JavaScript">JavaScript</option>
+			   <option value="ReactJS">ReactJS</option>
+			   <option value="Java">Java</option>
+			   <option value="SpringBoot">SpringBoot</option>
+			   <option value="NodeJS">NodeJS</option>
+			   <option value="ExpressJS">ExpressJS</option>
+			   <option value="SQL">SQL</option>
+			   <option value="Apigee">Apigee</option>
+			   <option value="PCF">PCF</option>
+               <option value="AWS">AWS</option>
             </select>
           </div>
 
