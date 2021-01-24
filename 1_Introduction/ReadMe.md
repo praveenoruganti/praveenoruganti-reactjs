@@ -225,5 +225,3 @@ Now run the application using **npm start** and you will see the below in browse
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/reactjs1.png)
 
 Now lets remove all the files, which we do not need at the moment, and leave only the files we need right now.
-
-I have created a sample react app and you can check out the code in [repo](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/1_Introduction/Demo/praveenorugantitech-reactjs-samples).
