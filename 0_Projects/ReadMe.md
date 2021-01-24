@@ -16,7 +16,7 @@
 
 - **Contact List** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-contact-list-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-contact-list-reactjs){:target="_blank"}
 
-- **User Registration using Firebase** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-user-registration-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-user-registration-reactjs){:target="_blank"}
+- **User Registration using Firebase** [Live Demo](https://praveenoruganti-user-reg.firebaseapp.com/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-user-registration-reactjs){:target="_blank"}
 
 - **User Registration using MySQL** [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-user-registration-app-mysql-reactjs){:target="_blank"}
 
