@@ -2,7 +2,7 @@
 
 - **Calculator** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-calculator-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-calculator-reactjs){:target="_blank"}
 
-- **Countdown Timer** [Live Demo](https://praveencountdown-timer-app.firebaseapp.com/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-countdown-timer-reactjs){:target="_blank"}
+- **Countdown Timer** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-countdown-timer-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-countdown-timer-reactjs){:target="_blank"}
 
 - **Meme Generator** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-meme-generator-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-meme-generator-reactjs){:target="_blank"}
 
