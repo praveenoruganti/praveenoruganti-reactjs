@@ -33,6 +33,7 @@
 - **LinkedIn Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-linkedin-clone/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-linkedin-clone){:target="_blank"}
 - **Netflix Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-netflix-clone/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-netflix-clone){:target="_blank"}
 - **Airbnb Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-airbnb-clone/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-airbnb-clone){:target="_blank"}
+- **Tesla Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs/0_Projects/praveenorugantitech-tesla-clone/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/tree/master/0_Projects/praveenorugantitech-tesla-clone){:target="_blank"}
 
 **Note:** I will continue to develop more React JS Projects and will update the same here going forward.
 
