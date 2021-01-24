@@ -1,6 +1,6 @@
 # useContext Hook
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/7_Hooks/images/prop_drilling.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/7_Hooks/images/prop_drilling.jpg)
 
 To avoid prop drilling, we need to make use of Context API in class components and useContext in functional components.
 
@@ -52,7 +52,7 @@ function ThemedButton() {
 }
 ```
 
-You can also check the [multi step form](https://github.com/praveenorugantitech/praveenorugantitech-reactjs/blob/master/0_Projects/praveenorugantitech-multi-step-form/src/StepContext.js) example for reference.
+You can also check the [multi step form](https://github.com/praveenorugantitech/praveenorugantitech-reactjs-projects/blob/master/praveenorugantitech-multi-step-form/src/StepContext.js) example for reference.
 
 
 

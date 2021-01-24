@@ -60,4 +60,4 @@ React treats components starting with lowercase letters as DOM tags. For example
 
 ## Difference between Functional and Class components
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/4_Components/images/components.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/4_Components/images/components.PNG)

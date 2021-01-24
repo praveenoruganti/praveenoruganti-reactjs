@@ -2,7 +2,7 @@
 
 Lets see React JS Component Lifecyle
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/6_Component%20Lifecycle/images/lifecycle.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/6_Component%20Lifecycle/images/lifecycle.png)
 
 Components are created (mounted on the DOM), grow by updating, and then die (unmount on DOM). This is referred to as a component lifecycle.
 
@@ -19,7 +19,7 @@ A component's lifecycle is broadly classified into four parts:
 
 Here is a flowchart representation of lifecycle methods:
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/6_Component%20Lifecycle/images/lifecycleflow.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/6_Component%20Lifecycle/images/lifecycleflow.png)
 
 ## Initialization
 
@@ -158,7 +158,7 @@ This method is called before the unmounting of the component takes place. Before
 
 ## Conclusion
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/6_Component%20Lifecycle/images/conclusion.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/6_Component%20Lifecycle/images/conclusion.jpg)
 
 
 

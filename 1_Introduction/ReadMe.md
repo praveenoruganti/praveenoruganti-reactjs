@@ -8,7 +8,7 @@ React JS is an Open Sourced JavaScript library for building fast and interactive
 
 ## Why React JS is so popular?
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/reactjs.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/reactjs.png)
 
 Developers often use React as a base for developing single-page web applications and then use other libraries to provide extra support to their web application.
 
@@ -103,7 +103,7 @@ Hence, finding a React JS developer will be easier for you. Moreover, it is simp
 
 Lets see the React JS roadmap and go deeper into the concepts.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/roadmap.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/roadmap.jpg)
 
 ## Aspects of React JS
 
@@ -115,7 +115,7 @@ Lets see the React JS roadmap and go deeper into the concepts.
 
 Lets see how exactly renders the webpage
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/virtualdom.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/virtualdom.png)
 
 Rendering engines which is responsible for displaying or rendering the webpage on the browser screen parses the HTML page to create DOM.
 
@@ -131,7 +131,7 @@ Like an actual DOM, Virtual DOM is a node tree that lists the elements and their
 
 Model gives data to view, if the DOM is empty then React will create a DOM for it.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/virtualdom1.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/virtualdom1.png)
 
 Updating virtual DOM in React JS is faster because React JS uses
 
@@ -145,7 +145,7 @@ Updating virtual DOM in React JS is faster because React JS uses
 React JS follows unidirectional data flow or one way data binding.
 Throughout the application the data flows in a single direction which gives you better control over it.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/databinding.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/databinding.png)
 
 ## What is Server side rendering?
 
@@ -222,6 +222,6 @@ It is good to know these folders and files.
 
 Now run the application using **npm start** and you will see the below in browser.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/1_Introduction/images/reactjs1.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/reactjs1.png)
 
 Now lets remove all the files, which we do not need at the moment, and leave only the files we need right now.
