@@ -30,6 +30,8 @@
 
 - **TV Series** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-tv-series-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-tv-series-reactjs){:target="_blank"}
 
+- **Wiki** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-wiki-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-wiki-reactjs){:target="_blank"}
+
 - **Countries Data** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-countries-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-countries-reactjs){:target="_blank"}
 
 - **Weather Forecast** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-weather-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-weather-reactjs){:target="_blank"}
