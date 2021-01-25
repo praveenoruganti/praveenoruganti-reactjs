@@ -151,6 +151,55 @@ Throughout the application the data flows in a single direction which gives you 
 
 Server side rendering allows you to pre-render the initial state of react components at the server side only.
 
+## What is React DOM?
+
+- React DOM serves as the entry point of the DOM-related rendering paths.
+- It provides DOM-specific methods that can be used at the top level of your app.
+
+This components should not use this module.
+
+- Render()
+- unmountComponentAtNode()
+- findDOMNode()
+
+If you use ES5 you can write as
+
+```jsx
+var ReactDOM = require("react-dom");
+```
+
+If you use ES6 you can write as
+
+```jsx
+import ReactDOM from "react-dom";
+```
+
+Now lets add React to a simple HTML and display Hello World.
+
+**Step 1**: Add a DOM Container to the HTML
+
+```JSX
+<div class="root"></div>
+```
+
+**Step 2**: Add the Script Tags
+
+  <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+**Step 3**: Create a React Component
+
+```jsx
+// To get the root element from the HTML document
+const rootElement = document.querySelector(".root");
+const app = React.createElement("h1", null, "Hello World");
+
+// we render the JSX element using the ReactDOM package
+ReactDOM.render(app, rootElement);
+```
+**That's It!** we have added react to a simple html and displayed Hello World. For Live Demo check this [out](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/1_Introduction/Demo/ReactDOM.html).
+
 ## React JS installation
 
 We can use online editors like

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>All About React DOM</title>
+
+</head>
+
+<body>
+  <div class="root"></div>
+
+  <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script type="text/babel">
+    // To get the root element from the HTML document
+    const rootElement = document.querySelector('.root')
+    const app = React.createElement('h1', null, 'Hello World');
+
+    // we render the JSX element using the ReactDOM package
+    ReactDOM.render(app, rootElement)
+
+  </script>
+</body>
+
+</html>
