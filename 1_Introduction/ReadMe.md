@@ -95,7 +95,7 @@ Hence, finding a React JS developer will be easier for you. Moreover, it is simp
 ## Prerequisites for learning React JS
 
 1. Knowledge of HTML & CSS
-2. Knowledge of JavaScript and ES6 standards(https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+2. [Knowledge of JavaScript and ES6 standards](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript){:target="\_blank"}
 3. Some knowledge about the DOM
 4. Some knowledge about Node & npm (and installation)
 
@@ -198,7 +198,7 @@ const app = React.createElement("h1", null, "Hello World");
 // we render the JSX element using the ReactDOM package
 ReactDOM.render(app, rootElement);
 ```
-**That's It!** we have added react to a simple html and displayed Hello World. For Live Demo check this [out](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/1_Introduction/Demo/ReactDOM.html).
+**That's It!** we have added react to a simple html and displayed Hello World. For Live Demo check this [out](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/1_Introduction/Demo/ReactDOM.html){:target="\_blank"}.
 
 ## React JS installation
 
@@ -210,8 +210,8 @@ We can use online editors like
 
 Now let's see what are all the dependencies needed for React JS installation in your environment.
 
-- Download and install npm : [https://nodejs.org/en/](https://nodejs.org/en/)
-- Download and install editor [https://code.visualstudio.com/docs/?dv=win](https://code.visualstudio.com/docs/?dv=win)
+- Download and install npm [https://nodejs.org/en/](https://nodejs.org/en/){:target="\_blank"}
+- Download and install editor [https://code.visualstudio.com/docs/?dv=win](https://code.visualstudio.com/docs/?dv=win){:target="\_blank"}
 
 ## Main components to build a React JS application are
 
@@ -229,7 +229,7 @@ The create-react-app tool installs all the libraries and packages required to bu
 
 **What is npm and npx?**
 
-npm is the node package manager for JavaScript. It helps you manage all the 3rd party packages and libraries that you will be installing for your application. It installed automatically when you install Node JS. You can check out my [blog](https://praveenorugantitech.blogspot.com/2019/11/npm-basics.html) for more information on npm.
+npm is the node package manager for JavaScript. It helps you manage all the 3rd party packages and libraries that you will be installing for your application. It installed automatically when you install Node JS. You can check out my [blog](https://praveenorugantitech.blogspot.com/2019/11/npm-basics.html){:target="\_blank"} for more information on npm.
 
 npx is a node package runner. It is used to download and run a package temporarily.
 
