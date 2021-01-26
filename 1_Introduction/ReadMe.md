@@ -30,10 +30,10 @@ For example: Dribble, Harvard's Official site.
 
 ## Why Startups and Enterprises love React JS (Top 10 Reasons)?
 
-**1 Virtual DOM**
+**1. Virtual DOM** <br/>
 Virtual DOM is a modern-day marvel for businesses. It helps you create a data structure cache memory within a memory unit, which allows you to update the browser DOM more efficiently.
 
-**2 Development Speed**
+**2. Development Speed**<br/>
 Time-to-market is one of the most crucial elements of any business, be it a startup or an enterprise.
 
 Businesses are always looking for using technologies that help them to complete software development projects on-time and within the defined budget.
@@ -42,43 +42,43 @@ React JS has a plethora of reusable components which help developers to develop 
 
 Having such interoperability helps businesses to build a strong mobile presence as well, along with the web.
 
-**3 Stability**
+**3. Stability**<br/>
 The technology used to develop web or mobile applications must remain relevant for at least a few years. With technology growing so fast, it is evident that the tools used to create applications may get obsolete in the future.
 
 Having been backed by millions of developers and enterprises like Facebook and Instagram, the chances of it getting obsolete are negligible. React JS has been a stable technology even in the face of growing competition, such as Vue JS and Angular JS.
 
-**4 Interactive Interface**
+**4. Interactive Interface**<br/>
 React JS provides an opportunity to manipulate the interface flows and designing features in a fast and easy way.
 
 You can hire React JS developers to update or develop an interface based on your tastes, desires, and principles. It can be done in two ways: loop and nest view.
 
-**5 Advance Performance**
+**5. Advance Performance**<br/>
 React JS is a pro when it comes to handling graphics on a variety of devices such as a tablet, smartphone, or desktop.
 
 It seamlessly loads any webpage on either of the devices mentioned above. React does it by automatically updating the on-page apps that do not require a reload for redrawing UI.
 
-**6 Simple to use**
+**6. Simple to use**<br/>
 One of the prominent reasons why React is one of the most loved libraries among developers is because of its simplicity. According to many developers, it is simpler than Angular JS.
 
 React JS development simplifies the process of programming, development, and hence, administration of resources. React JS is not only a perfect framework for newbie developers but also an ideal framework for experts and experienced programmers.
 
 Although React JS is simple to use, it has got all the advanced level functions and capability that can help pro-developers to create stunning webpages.
 
-**7 Alternatives**
+**7. Alternatives**<br/>
 Being an open-source library, React JS acts as a stone that can kill two birds at a time.
 
 Developers can use React JS as the base library as well as an alternative to other libraries such as Angular, Backbone, jQuery, and more. React JS extensions comprise of all the functions available in these libraries.
 
 Moreover, these extensions are prolonged with a broad spectrum of other functions, simplifications, additions, and useful changes, which have been implemented in React.
 
-**8 Flexible Development**
+**8. Flexible Development**<br/>
 Businesses took the arrival of React JS for granted. They thought that it was just another library which would give its share in simplifying web development.
 
 But, the truth is that React does more than simplifying web development. It has helped many developers to reduce several restrictions that hindered the process of web development.
 
 React help developers to deal with future problems and strategy to govern the web development project one of the most comfortable and flexible ways.
 
-**9 SEO-Friendly**
+**9. SEO-Friendly**<br/>
 Excluding the enterprises and startups in a monopoly business, every company requires to do SEO on their websites. They must rank higher on search engines. Using Node JS, React can render on servers easily.
 
 It helps search engines to crawl the web application in its final form, making it simpler for webpages to index it properly.
@@ -87,7 +87,7 @@ Although some techniques and technologies can produce similar results, they are 
 
 React JS has been tried and tested by several organizations in the world for creating high-quality and reliable front-end and making the site SEO-friendly.
 
-**10 Access to Developers**
+**10. Access to Developers**<br/>
 Being one of the most popular frameworks among the developer community, React JS is a framework which many developers opt to learn.
 
 Hence, finding a React JS developer will be easier for you. Moreover, it is simpler to train a developer with React JS, who has a basic knowledge of JavaScript and front-end development.
