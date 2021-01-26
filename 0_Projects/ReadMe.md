@@ -56,6 +56,8 @@
 
 - **Cocktails** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-cocktails-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-cocktails-reactjs){:target="_blank"}
 
+- **Beach Resort** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-beach-resort-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-beach-resort-reactjs){:target="_blank"}
+
 - **Amazon Clone** [Live Demo](https://praveenoruganti-amaz.firebaseapp.com/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-amazon-clone-reactjs){:target="_blank"}
 
 - **Twitter Clone** [Live Demo](https://praveenoruganti-twitter-clone.firebaseapp.com/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-twitter-clone-reactjs){:target="_blank"}
