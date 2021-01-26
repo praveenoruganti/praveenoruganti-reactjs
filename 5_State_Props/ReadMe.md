@@ -2,7 +2,7 @@
 
 ## What are props?
 
-Props is short for properties and they are used to pass data between React components. React's data flow between components is uni-directional (from parent to child only).
+Props(short for properties) are used to pass data between React components. React's data flow between components is uni-directional (from parent to child only).
 
 **How do you pass data with props?**
 
