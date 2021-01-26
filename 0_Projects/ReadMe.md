@@ -48,6 +48,8 @@
 
 - **Memory Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-memory-game-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-memory-game-reactjs){:target="_blank"}
 
+- **Rock Paper Scissors Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-rock-paper-scissors-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-rock-paper-scissors-reactjs/){:target="_blank"}
+
 - **Piano** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-piano-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-piano-reactjs){:target="_blank"}
 
 - **Cart** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-cart-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-cart-reactjs){:target="_blank"}
