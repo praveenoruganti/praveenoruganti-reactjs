@@ -12,13 +12,13 @@ Instead, using React Router makes the user experience far better where when we v
 
 ## React Router library
 
-[React Router](https://reactrouter.com/) is a library that can be used on the web as well as native applications.
+[React Router](https://reactrouter.com/){:target="\_blank"} is a library that can be used on the web as well as native applications.
 
 So there are two libraries - one for the web which is react-router-dom and the other is for native which is react-router-native.
 
 Now we will be exploring all about the react-router-dom library which is used for building web applications in React.
 
-Now lets use the react-router-dom library and develop a [sample React JS application](https://github.com/praveenorugantitech/praveenorugantitech-reactjs-course/tree/master/8_React%20Router/Demo/praveenorugantitech-react-router).
+Now lets use the react-router-dom library and develop a [sample React JS application](https://github.com/praveenorugantitech/praveenorugantitech-reactjs-course/tree/master/8_React%20Router/Demo/praveenorugantitech-react-router){:target="\_blank"}.
 
 ```jsx
 npm install react-router-dom
