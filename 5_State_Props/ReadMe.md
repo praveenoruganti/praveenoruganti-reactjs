@@ -9,17 +9,14 @@ Props(short for properties) are used to pass data between React components. Reac
 Here is an example of how data can be passed by using props:
 
 ```jsx
-class ParentComponent extends Component {
-    render() {
-        return (
-            <ChildComponent name="First Child" />
-        );
-    }
+class ParentComponent extends React.Component {
+  render() {
+    return <ChildComponent name="First Child" />;
+  }
 }
 const ChildComponent = (props) => {
-    return <p>{props.name}</p>;
+  return <p>{props.name}</p>;
 };
-
 ```
 
 Firstly, we need to define/get some data from the parent component and assign it to a child component's **prop** attribute.
@@ -32,14 +29,17 @@ Firstly, we need to define/get some data from the parent component and assign it
 
 ```jsx
 const ChildComponent = (props) => {
-    // statements
-  };
+  // statements
+};
 ```
+
 And finally, we use dot notation to access the prop data and render it:
 
 ```jsx
 return <p>{props.name}</p>;
 ```
+
+You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/prop.html){:target="\_blank"}.
 
 ## What is state?
 
@@ -48,35 +48,39 @@ React has another special built-in object called state, which allows components 
 Here is an example showing how to use state:
 
 ```jsx
-class Test extends React.Component {
-    constructor() {
-        this.state = {
-            id: 1,
-            name: "test"
-        };
-    }
-    render() {
-        return (
-            <div>
-                <p>{this.state.id}</p>
-                <p>{this.state.name}</p>
-            </div>
-        );
-    }
+class StateTest extends React.Component {
+  constructor() {
+    super();
+    this.state = {
+      id: 1,
+      name: "Praveen Oruganti",
+      designation: "Software Engineer",
+    };
+  }
+  render() {
+    return (
+      <div>
+        Id: {this.state.id} <br />
+        Name: {this.state.name} <br />
+        Designation: {this.state.designation}
+      </div>
+    );
+  }
 }
-
 ```
+
+You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/state.html){:target="\_blank"}.
 
 **How do you update a component's state?**
 
 State should not be modified directly, but it can be modified with a special method called setState( ).
 
 ```jsx
-this.state.id = "2020"; // wrong
-this.setState({         // correct
-    id: "2020"
+this.state.id = 2; // wrong
+this.setState({
+  // correct
+  id: 2,
 });
-
 ```
 
 **What happens when state changes?**
@@ -110,7 +114,3 @@ If your project is not using React Hooks, then you can only use state in class c
 - State data can be modified by its own component, but is private (cannot be accessed from outside).
 - Props can only be passed from parent component to child (unidirectional flow).
 - Modifying state should happen with the setState() method.
-
-
-
-
