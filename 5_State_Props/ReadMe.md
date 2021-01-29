@@ -10,7 +10,11 @@ Here is an example of how data can be passed by using props:
 
 ```jsx
 const Person = (props) => {
-  return (<h3>Name: {props.name} | Company: {props.company}</h3>);
+  return (
+    <h3>
+      Name: {props.name} | Company: {props.company}
+    </h3>
+  );
 };
 
 const App = () => {
@@ -41,10 +45,42 @@ const Person = (props) => {
 And finally, we use dot notation to access the prop data and render it:
 
 ```jsx
-return (<h3>Name: {props.name} | Company: {props.company}</h3>);
+return (
+  <h3>
+    Name: {props.name} | Company: {props.company}
+  </h3>
+);
 ```
 
 You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/prop.html){:target="\_blank"}.
+
+In Class Component, we need to use **this.props** instead of **props** as props is reserved keyword refers to the class.
+
+Lets convert the above example from Functional component to Class Component,
+
+```jsx
+class Person extends React.Component {
+  render() {
+    return (
+      <h3>
+        Name: {this.props.name} | Company: {this.props.company}
+      </h3>
+    );
+  }
+}
+
+class App extends React.Component {
+  render() {
+    return (
+      <div>
+        <Person name="Praveen" company="CTS" />
+        <Person name="Kiran" company="HCL" />
+        <Person name="Vipin" company="Wipro" />
+      </div>
+    );
+  }
+}
+```
 
 ## What is state?
 
