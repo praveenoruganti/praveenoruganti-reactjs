@@ -10,11 +10,7 @@ Here is an example of how data can be passed by using props:
 
 ```jsx
 const Person = (props) => {
-  return (
-    <h3>
-      Name: {props.name}&nbsp;Company: {props.company}
-    </h3>
-  );
+  return (<h3>Name: {props.name} | Company: {props.company}</h3>);
 };
 
 const App = () => {
@@ -45,11 +41,7 @@ const Person = (props) => {
 And finally, we use dot notation to access the prop data and render it:
 
 ```jsx
-return (
-  <h3>
-    Name: {props.name}&nbsp;Company: {props.company}
-  </h3>
-);
+return (<h3>Name: {props.name} | Company: {props.company}</h3>);
 ```
 
 You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/prop.html){:target="\_blank"}.
