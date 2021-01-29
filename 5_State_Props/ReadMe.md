@@ -9,26 +9,35 @@ Props(short for properties) are used to pass data between React components. Reac
 Here is an example of how data can be passed by using props:
 
 ```jsx
-class ParentComponent extends React.Component {
-  render() {
-    return <ChildComponent name="First Child" />;
-  }
-}
-const ChildComponent = (props) => {
-  return <p>{props.name}</p>;
+const Person = (props) => {
+  return (
+    <h3>
+      Name: {props.name}&nbsp;Company: {props.company}
+    </h3>
+  );
+};
+
+const App = () => {
+  return (
+    <div>
+      <Person name="Praveen" company="CTS" />
+      <Person name="Kiran" company="HCL" />
+      <Person name="Vipin" company="Wipro" />
+    </div>
+  );
 };
 ```
 
-Firstly, we need to define/get some data from the parent component and assign it to a child component's **prop** attribute.
+Firstly, we need to define some data for Person Component in App Component and access with **prop** attributes in Person Component.
 
 ```jsx
-<ChildComponent name="First Child" />
+<Person name="Praveen" company="CTS" />
 ```
 
-**name** is a defined prop here and contains text data. Then we can pass data with props like we're giving an argument to a function:
+**name and company** is a defined props here and contains text data. Then we can pass data with props like we're giving an argument to a function:
 
 ```jsx
-const ChildComponent = (props) => {
+const Person = (props) => {
   // statements
 };
 ```
@@ -36,7 +45,11 @@ const ChildComponent = (props) => {
 And finally, we use dot notation to access the prop data and render it:
 
 ```jsx
-return <p>{props.name}</p>;
+return (
+  <h3>
+    Name: {props.name}&nbsp;Company: {props.company}
+  </h3>
+);
 ```
 
 You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/prop.html){:target="\_blank"}.

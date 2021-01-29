@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>All About State</title>
+  <title>All About Props</title>
 
 </head>
 
@@ -14,22 +14,27 @@
   <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
   <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
   <script type="text/babel">
 
     // To get the root element from the HTML document
     const rootElement = document.querySelector('.root')
 
-    class ParentComponent extends React.Component {
-      render() {
-        return <ChildComponent name="First Child" />;
-      }
+    const Person = (props) => {
+      return (<h3>Name: {props.name}&nbsp;Company: {props.company}</h3>);
     }
-    const ChildComponent = (props) => {
-      return <p>{props.name}</p>;
+    
+    const App = () => {
+      return (
+        <div>
+          <Person name="Praveen" company="CTS" />
+          <Person name="Kiran" company="HCL" />
+          <Person name="Vipin" company="Wipro" />
+        </div>
+      );
     };
-
     // we render the JSX element using the ReactDOM package
-    ReactDOM.render(<ParentComponent />, rootElement)
+    ReactDOM.render(<App />, rootElement)
 
   </script>
 </body>
