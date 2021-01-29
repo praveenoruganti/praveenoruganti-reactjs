@@ -34,6 +34,8 @@
 
 - **Countries Data** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-countries-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-countries-reactjs){:target="_blank"}
 
+- **Dictionary** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-dictionary-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-dictionary-reactjs){:target="_blank"}
+
 - **Weather Forecast** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-weather-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-weather-reactjs){:target="_blank"}
 
 - **Movie Search** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-movie-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-movie-reactjs){:target="_blank"}
