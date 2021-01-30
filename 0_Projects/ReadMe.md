@@ -70,7 +70,7 @@
 
 - **Slack Clone** [Live Demo](https://praveenoruganti-slack-clone.firebaseapp.com/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-slack-clone-reactjs){:target="_blank"}
 
-- **WhatsApp Clone** [Live Demo](https://praveenoruganti-whatsapp.firebaseapp.com/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-whatsapp-clone-reactjs){:target="_blank"}
+- **WhatsApp Clone** [Live Demo](https://praveenoruganti-whatsapp-clone.firebaseapp.com/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-whatsapp-clone-reactjs){:target="_blank"}
 
 - **LinkedIn Clone** [Live Demo](https://praveenoruganti-linkedin-clone.firebaseapp.com/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-linkedin-clone-reactjs){:target="_blank"}
 
