@@ -206,7 +206,7 @@ class App extends React.Component {
 }
 ```
 
-You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/state_event.html){:target="_blank"}.
+You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/state_event.html){:target="\_blank"}
 
 ## What are the differences between props and state?
 
