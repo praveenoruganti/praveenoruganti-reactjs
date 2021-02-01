@@ -26,6 +26,8 @@ class App extends React.Component {
 }
 ```
 
+You can also check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/4_Components/Demo/ClassComponent.html).{:target="\_blank"}
+
 ## Function Components
 
 - Function components are basic JavaScript functions. These are typically arrow functions but can also be created with the regular function keyword.
@@ -43,6 +45,8 @@ const App = () => {
   return <h1>This is a Functional Component!!</h1>;
 };
 ```
+
+You can also check out the [Demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/4_Components/Demo/FunctionComponent.html).{:target="\_blank"}
 
 The above two components are equivalent from React's point of view.
 
