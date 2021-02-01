@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Functional Component</title>
+
+</head>
+
+<body>
+    <div class="root"></div>
+
+    <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script type="text/babel">
+        // To get the root element from the HTML document
+        const rootElement = document.querySelector('.root')
+
+        const App = () => {
+            return <h1>This is a Functional Component!!</h1>;
+        }
+
+        // we render the JSX element using the ReactDOM package
+        ReactDOM.render(<App />, rootElement)
+
+    </script>
+</body>
+
+</html>

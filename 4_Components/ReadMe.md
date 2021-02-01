@@ -19,14 +19,11 @@ Components can be:
 You can also use an ES6 class to define a component
 
 ```jsx
-import React from "react";
-
-class Welcome extends React.Component {
+class App extends React.Component {
   render() {
-    return <h1>Hello, {this.props.name}</h1>;
+    return <h1>This is a Class Component!!</h1>;
   }
 }
-export default Welcome;
 ```
 
 ## Function Components
@@ -42,28 +39,25 @@ export default Welcome;
 The simplest way to define a component is to write a JavaScript function.
 
 ```jsx
-import React from "react";
-
-const Greeting = (props) => {
-  return <h1>Hello, {props.name}</h1>;
+const App = () => {
+  return <h1>This is a Functional Component!!</h1>;
 };
-export default Greeting;
 ```
-
-This function is a valid React component because it accepts a single **props** (which stands for properties) object argument with data and returns a React element. We call such components **function components** because they are literally JavaScript functions.
 
 The above two components are equivalent from React's point of view.
 
 **Note**: Always start component names with a capital letter.
 
-React treats components starting with lowercase letters as DOM tags. For example, <div /> represents an HTML div tag, but <Welcome /> represents a component and requires Welcome to be in scope.
+React treats components starting with lowercase letters as DOM tags. For example, <div /> represents an HTML div tag, but <App /> represents a component and requires App to be in scope.
 
 ## Difference between Functional and Class components
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/4_Components/images/components.PNG)
 
+You can learn more about state and props in [State and Props](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/){:target="\_blank"}
+
 **Functional components after Hooks Introduction**
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/4_Components/images/components_comparision.PNG)
 
-You can learn more about Hooks in [Hooks](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/7_Hooks/){:target="_blank"} 
+You can learn more about Hooks in [Hooks](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/7_Hooks/){:target="\_blank"}
