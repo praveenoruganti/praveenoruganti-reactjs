@@ -198,7 +198,7 @@ const app = React.createElement("h1", null, "Hello World");
 // we render the JSX element using the ReactDOM package
 ReactDOM.render(app, rootElement);
 ```
-**That's It!** we have added react to a simple html and displayed Hello World. For Live Demo check this [out](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/1_Introduction/Demo/ReactDOM.html){:target="\_blank"}.
+**That's It!** we have added react to a simple html and displayed Hello World. For Live Demo check this [out](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/1_Introduction/Demo/ReactDOM.html){:target="\_blank"}
 
 ## React JS installation
 
