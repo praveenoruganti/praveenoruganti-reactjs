@@ -26,7 +26,7 @@
 
 - **Jobs Finder** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-jobs-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-jobs-reactjs){:target="_blank"}
 
-- **News** [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-news-reactjs){:target="_blank"}
+- **News** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-news-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-news-reactjs){:target="_blank"}
 
 - **TV Series** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-tv-series-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-tv-series-reactjs){:target="_blank"}
 
