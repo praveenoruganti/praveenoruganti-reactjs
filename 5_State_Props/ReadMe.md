@@ -2,7 +2,9 @@
 
 ## What are props?
 
-Props(short for properties) are used to pass data between React components. React's data flow between components is uni-directional (from parent to child only).
+Props is short for properties and they are used to pass data between React components. 
+
+React's data flow between components is uni-directional (from parent to child only).
 
 **How do you pass data with props?**
 
@@ -146,6 +148,69 @@ Another important question you might ask about state is where exactly we can use
 That's why functional components were also known as stateless components. However, after the introduction of React Hooks, state can now be used both in class and functional components.
 
 If your project is not using React Hooks, then you can only use state in class components.
+
+
+Lets see an example on usage of **state with events**
+
+```jsx
+class App extends React.Component {
+      state = {
+        /*  Initial State */
+        input: "",
+        reversedText: ""
+      };
+
+      /* handleChange() function to set a new state for input */
+      handleChange = event => {
+        const value = event.target.value;
+        this.setState({
+          input: value
+        });
+      };
+
+      /* handleReverse() function to reverse the input and set that as new state for reversedText */
+      handleReverse = event => {
+        event.preventDefault();
+        const text = this.state.input;
+        this.setState({
+          reversedText: text
+            .split("")
+            .reverse()
+            .join("")
+        });
+      };
+
+      render() {
+        return (
+          <React.Fragment>
+            { /* handleReverse() is called when the form is submitted */}
+            <form onSubmit={this.handleReverse}>
+              <div>
+                { /* Render input entered */}
+                <label>Text: {this.state.input}</label>
+              </div>
+              <div>
+                { /* handleChange() is triggered when text is entered */}
+                <input
+                  type="text"
+                  value={this.state.input}
+                  onChange={this.handleChange}
+                  placeholder="Enter a text"
+                />
+              </div>
+              <div>
+                <button>Reverse Text</button>
+              </div>
+            </form>
+            { /* Render reversed text */}
+            <p>Reversed Text: {this.state.reversedText}</p>
+          </React.Fragment>
+        );
+      }
+    }
+
+```
+You can also check the [demo](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/5_State_Props/Demo/state_event.html){:target="\_blank"}.
 
 ## What are the differences between props and state?
 

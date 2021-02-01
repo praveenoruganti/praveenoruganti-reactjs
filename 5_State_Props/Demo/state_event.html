@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>All About State with Events</title>
+
+</head>
+
+<body>
+  <div class="root"></div>
+
+  <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script type="text/babel">
+
+    // To get the root element from the HTML document
+    const rootElement = document.querySelector('.root')
+    class App extends React.Component {
+      state = {
+        /*  Initial State */
+        input: "",
+        reversedText: ""
+      };
+
+      /* handleChange() function to set a new state for input */
+      handleChange = event => {
+        const value = event.target.value;
+        this.setState({
+          input: value
+        });
+      };
+
+      /* handleReverse() function to reverse the input and set that as new state for reversedText */
+      handleReverse = event => {
+        event.preventDefault();
+        const text = this.state.input;
+        this.setState({
+          reversedText: text
+            .split("")
+            .reverse()
+            .join("")
+        });
+      };
+
+      render() {
+        return (
+          <React.Fragment>
+            { /* handleReverse() is called when the form is submitted */}
+            <form onSubmit={this.handleReverse}>
+              <div>
+                { /* Render input entered */}
+                <label>Text: {this.state.input}</label>
+              </div>
+              <div>
+                { /* handleChange() is triggered when text is entered */}
+                <input
+                  type="text"
+                  value={this.state.input}
+                  onChange={this.handleChange}
+                  placeholder="Enter a text"
+                />
+              </div>
+              <div>
+                <button>Reverse Text</button>
+              </div>
+            </form>
+            { /* Render reversed text */}
+            <p>Reversed Text: {this.state.reversedText}</p>
+          </React.Fragment>
+        );
+      }
+    }
+    // we render the JSX element using the ReactDOM package
+    ReactDOM.render(<App />, rootElement)
+
+  </script>
+</body>
+
+</html>
