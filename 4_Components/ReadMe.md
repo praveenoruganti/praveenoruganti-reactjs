@@ -66,4 +66,4 @@ React treats components starting with lowercase letters as DOM tags. For example
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/4_Components/images/components_comparision.PNG)
 
-You can learn more about Hooks in [Hooks](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/7_Hooks/)
+You can learn more about Hooks in [Hooks](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/7_Hooks/){:target="_blank"} 
