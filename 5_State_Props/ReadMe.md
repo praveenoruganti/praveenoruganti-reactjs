@@ -2,9 +2,11 @@
 
 ## What are props?
 
-Props is short for properties and they are used to pass data between React components.
-
-React's data flow between components is uni-directional (from parent to child only).
+- Props is the shorthand for Properties in React.
+- They are read only components which must be kept pure i.e. immutable.
+- They are always passed down from the parent to the child components throughout the application.
+- A child component can never send a prop back to the parent component.
+- This help in maintaining the unidirectional data flow and are generally used to render the dynamically generated data.
 
 **How do you pass data with props?**
 
@@ -87,6 +89,7 @@ class App extends React.Component {
 ## What is state?
 
 React has another special built-in object called state, which allows components to create and manage their own data. So unlike props, components cannot pass data with state, but they can create and manage it internally.
+They are mutable unlike the props and create dynamic and interactive components.
 
 Here is an example showing how to use state:
 

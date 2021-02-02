@@ -140,6 +140,10 @@ Updating virtual DOM in React JS is faster because React JS uses
 - Efficient update of sub tree only
 - Uses observable instead of dirty checking to detect change
 
+## Difference between Real DOM and Virtual DOM
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/realdom_virtualdom.jpg)
+
 ## What is data binding?
 
 React JS follows unidirectional data flow or one way data binding.
@@ -150,6 +154,10 @@ Throughout the application the data flows in a single direction which gives you 
 ## What is Server side rendering?
 
 Server side rendering allows you to pre-render the initial state of react components at the server side only.
+
+## How is React different from Angular?
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/reactvsangular.png)
 
 ## What is React DOM?
 
@@ -198,7 +206,15 @@ const app = React.createElement("h1", null, "Hello World");
 // we render the JSX element using the ReactDOM package
 ReactDOM.render(app, rootElement);
 ```
+
 **That's It!** we have added react to a simple html and displayed Hello World. For Live Demo check this [out](https://praveenorugantitech.github.io/praveenorugantitech-reactjs-course/1_Introduction/Demo/ReactDOM.html){:target="\_blank"}
+
+## What is the purpose of render() in React
+
+- Each React component must have a render() mandatorily.
+- It returns a single React element which is the representation of the native DOM component
+- If more than one HTML element needs to be rendered, then they must be grouped together inside one enclosing tag such as <React.Fragment> or <> or <div>
+- This function must be kept pure i.e., it must return the same result each time it is invoked.
 
 ## React JS installation
 
