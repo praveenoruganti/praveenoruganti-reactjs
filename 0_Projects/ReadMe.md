@@ -1,5 +1,7 @@
 # React JS Projects
 
+- **Counter** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-counter-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-counter-reactjs){:target="_blank"}
+
 - **Calculator** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-calculator-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-calculator-reactjs){:target="_blank"}
 
 - **Countdown Timer** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-countdown-timer-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-countdown-timer-reactjs){:target="_blank"}
