@@ -1,6 +1,4 @@
-# useEffect Hook
-
-
+# useEffect Hook | Praveen Oruganti Tech
 
 - By using this, you tell React that your component needs to do something after render.
 - declare count state variable, then tell React to use an effect, pass a function to the useEffect. function we pass is our effect. Inside our effect set the document.title.

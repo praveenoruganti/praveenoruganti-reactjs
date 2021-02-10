@@ -1,4 +1,4 @@
-# React Router
+# React Router | Praveen Oruganti Tech
 
 React router helps to build applications where there is no page refresh happening while loading data so users don't need to wait until the page loads while requesting some information or while updating the webpage.
 

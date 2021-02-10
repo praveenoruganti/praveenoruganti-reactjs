@@ -1,8 +1,4 @@
-# useMemo and useCallback Hooks
-
-
-
-
+# useMemo and useCallback Hooks | Praveen Oruganti Tech
 
 Lets see useMemo hook and the useCallback hook since they are both crucial for creating performant React applications through the use of memoization.
 

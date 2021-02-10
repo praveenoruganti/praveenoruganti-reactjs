@@ -1,4 +1,4 @@
-# React JS Introduction
+# React JS Introduction | Praveen Oruganti Tech
 
 React JS is a JavaScript library created by Facebook and it generally uses jsx(js and html) for writing the code and uses Virtual DOM concept.
 

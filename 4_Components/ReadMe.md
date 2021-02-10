@@ -1,4 +1,4 @@
-# React JS Components
+# React JS Components | Praveen Oruganti Tech
 
 Components let you split the UI into independent, reusable pieces, and think about each piece in isolation.
 

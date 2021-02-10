@@ -1,4 +1,4 @@
-# Rendering Elements
+# Rendering Elements | Praveen Oruganti Tech
 
 Elements are the smallest building blocks of React apps.
 
