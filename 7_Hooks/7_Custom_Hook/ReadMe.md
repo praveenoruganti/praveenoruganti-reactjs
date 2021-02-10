@@ -1,4 +1,7 @@
-# Custom Hook | Praveen Oruganti Tech
+# Custom Hook
+
+
+
 
 There might be instances where you have been using the same repetitive and redundant stateful logic inside multiple components. We were able to handle this situation by relying on Render props and Higher Order Components. But with hooks, we can do it in a much simpler and cleaner way, Thanks to the Custom hooks.
 

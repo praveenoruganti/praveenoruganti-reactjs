@@ -1,4 +1,4 @@
-# useContext Hook | Praveen Oruganti Tech
+# useContext Hook
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/7_Hooks/images/prop_drilling.jpg)
 

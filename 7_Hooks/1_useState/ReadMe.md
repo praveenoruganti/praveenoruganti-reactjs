@@ -1,4 +1,6 @@
-# useState Hook | Praveen Oruganti Tech
+# useState Hook
+
+
 
 React useState() hook manages the state in functional React components. In class components this.state holds the state, and you invoke the special method this.setState() to update the state.
 

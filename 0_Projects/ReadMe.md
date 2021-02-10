@@ -1,4 +1,4 @@
-# React JS Projects | Praveen Oruganti Tech
+# React JS Projects
 
 - **Counter** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-counter-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-counter-reactjs){:target="_blank"}
 

@@ -1,4 +1,4 @@
-# JSX | Praveen Oruganti Tech
+# JSX
 
 ## What is JSX?
 

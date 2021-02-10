@@ -1,4 +1,4 @@
-# State and Props | Praveen Oruganti Tech
+# State and Props
 
 ## What are props?
 

@@ -1,4 +1,4 @@
-# React JS Component Lifecycle | Praveen Oruganti Tech
+# React JS Component Lifecycle
 
 Lets see React JS Component Lifecyle
 

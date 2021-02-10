@@ -1,4 +1,6 @@
-# useReducer Hook | Praveen Oruganti Tech
+# useReducer Hook
+
+
 
 ```jsx
 const [ state, dispatch ] = useReducer(reducer, initialState)
