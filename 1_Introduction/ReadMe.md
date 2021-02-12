@@ -140,7 +140,7 @@ Updating virtual DOM in React JS is faster because React JS uses
 
 ## Difference between Real DOM and Virtual DOM
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/realdom_virtualdom.jpg)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/realdom_virtualdom.PNG)
 
 ## What is the difference between Shadow DOM and Virtual DOM?
 
