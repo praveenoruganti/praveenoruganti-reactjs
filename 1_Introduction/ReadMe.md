@@ -92,6 +92,13 @@ Being one of the most popular frameworks among the developer community, React JS
 
 Hence, finding a React JS developer will be easier for you. Moreover, it is simpler to train a developer with React JS, who has a basic knowledge of JavaScript and front-end development.
 
+## What are the limitations of React?
+
+- React is just a view library, not a full framework.
+- Integrating React into a traditional MVC framework requires some additional configuration.
+- The code complexity increases with inline templating and JSX.
+- Too many smaller components leading to over engineering or boilerplate.
+
 ## Prerequisites for learning React JS
 
 1. Knowledge of HTML & CSS
