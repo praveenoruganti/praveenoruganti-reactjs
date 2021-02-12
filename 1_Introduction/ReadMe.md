@@ -113,25 +113,23 @@ Lets see the React JS roadmap and go deeper into the concepts.
 
 ## What is meant by Virtual DOM?
 
-Lets see how exactly renders the webpage
+The Virtual DOM (VDOM) is an in-memory representation of Real DOM. The representation of a UI is kept in memory and synced with the "real" DOM. It's a step that happens between the render function being called and the displaying of elements on the screen. This entire process is called reconciliation.
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/virtualdom.png)
+## How Virtual DOM works?
 
-Rendering engines which is responsible for displaying or rendering the webpage on the browser screen parses the HTML page to create DOM.
+The Virtual DOM works in three simple steps.
 
-If you see above screenshot, updating a Real DOM does not involves just updating the DOM but, it involves a lot of other process.
-
-Also, each of the above steps runs for each update of the real DOM i.e. if we update the Real DOM 10 times each of the above step will repeat 10 times. This is why updating Real DOM is slow.
-
-To solve the above problem, Virtual DOM came into the picture.
-
-Virtual DOM is in-memory representation of Real DOM. It is lightweight JavaScript object which is copy of Real DOM.
-
-Like an actual DOM, Virtual DOM is a node tree that lists the elements and their attributes and content as Objects and their properties.
-
-Model gives data to view, if the DOM is empty then React will create a DOM for it.
+- Whenever any underlying data changes, the entire UI is re-rendered in Virtual DOM representation.
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/virtualdom1.png)
+
+- Then the difference between the previous DOM representation and the new one is calculated.
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/virtualdom2.png)
+
+- Once the calculations are done, the real DOM will be updated with only the things that have actually changed.
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/virtualdom3.png)
 
 Updating virtual DOM in React JS is faster because React JS uses
 
@@ -143,6 +141,10 @@ Updating virtual DOM in React JS is faster because React JS uses
 ## Difference between Real DOM and Virtual DOM
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/realdom_virtualdom.jpg)
+
+## What is the difference between Shadow DOM and Virtual DOM?
+
+The Shadow DOM is a browser technology designed primarily for scoping variables and CSS in web components. The Virtual DOM is a concept implemented by libraries in JavaScript on top of browser APIs.
 
 ## What is data binding?
 
