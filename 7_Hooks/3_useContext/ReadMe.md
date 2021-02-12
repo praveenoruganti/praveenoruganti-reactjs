@@ -52,7 +52,7 @@ function ThemedButton() {
 }
 ```
 
-You can also check the [multi step form](https://github.com/praveenorugantitech/praveenorugantitech-multi-step-form-reactjs/blob/master/src/StepContext.js) example for reference.
+You can also check the [multi step form](https://github.com/praveenorugantitech/praveenorugantitech-multi-step-form-reactjs/blob/master/src/StepContext.js) project for reference.
 
 
 
