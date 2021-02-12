@@ -65,8 +65,9 @@ Here with the different types of React Hooks.
 
 ![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/7_Hooks/images/lifecycle.jpg)
 
+## Is Hooks cover all use cases for classes?
 
-
+Hooks doesn't cover all use cases of classes but there is a plan to add them soon. Currently there are no Hook equivalents to the uncommon **getSnapshotBeforeUpdate** and **componentDidCatch** lifecycles yet.
 
 
 
