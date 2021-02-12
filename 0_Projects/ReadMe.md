@@ -22,6 +22,10 @@
 
 - **User Registration using MySQL** [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-user-registration-app-mysql-reactjs){:target="_blank"}
 
+- **Random Text** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-random-text-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-random-text-reactjs){:target="_blank"}
+
+- **Random Quote** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-random-quote-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-random-quote-reactjs){:target="_blank"}
+
 - **Breaking Bad TV Show Cast** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-breaking-bad-cast-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-breaking-bad-cast-reactjs){:target="_blank"}
 
 - **Link Shortner** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-link-shortner-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-link-shortner-reactjs){:target="_blank"}
@@ -45,8 +49,6 @@
 - **Movie Search** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-movie-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-movie-reactjs){:target="_blank"}
 
 - **Quiz** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-quiz-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-quiz-reactjs){:target="_blank"}
-
-- **Random Quote** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-random-quote-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-random-quote-reactjs){:target="_blank"}
 
 - **Roll Dice** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-roll-dice-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-roll-dice-reactjs){:target="_blank"}
 
