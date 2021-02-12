@@ -159,7 +159,7 @@ Server side rendering allows you to pre-render the initial state of react compon
 
 ## How is React different from Angular?
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/reactvsangular.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-course/master/1_Introduction/images/reactvsangular.PNG)
 
 ## What is React DOM?
 
