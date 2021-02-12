@@ -18,7 +18,7 @@ So there are two libraries - one for the web which is react-router-dom and the o
 
 Now we will be exploring all about the react-router-dom library which is used for building web applications in React.
 
-Now lets use the react-router-dom library and develop a [sample React JS application](https://github.com/praveenorugantitech/praveenorugantitech-reactjs-course/tree/master/8_React%20Router/Demo/praveenorugantitech-react-router){:target="\_blank"}
+Now lets use the react-router-dom library and develop a [sample React JS application](https://github.com/praveenorugantitech/praveenorugantitech-reactjs-course/tree/master/8_React%20Router/Demo/praveenorugantitech-react-router){:target="_blank"}
 
 ```jsx
 npm install react-router-dom
