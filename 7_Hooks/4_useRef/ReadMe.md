@@ -35,7 +35,7 @@ While most use cases for refs lie with referencing DOM elements, refs can also b
 
 ```jsx
 function Component() {
-    const [name, setName] = useState('Kyle')
+    const [name, setName] = useState('PraveenOruganti')
     const previousName = useRef(null)
     useEffect(() => {
         previousName.current = name
