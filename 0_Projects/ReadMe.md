@@ -30,6 +30,8 @@
 
 - **Link Shortner** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-link-shortner-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-link-shortner-reactjs){:target="_blank"}
 
+- **GitHub Followers** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-github-followers-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-github-followers-reactjs){:target="_blank"}
+
 - **GitHub Search** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-github-search-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-github-search-reactjs){:target="_blank"}
 
 - **Jobs Finder** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-jobs-reactjs/){:target="_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-jobs-reactjs){:target="_blank"}
