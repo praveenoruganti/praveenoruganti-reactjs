@@ -71,7 +71,7 @@
 - **Rock Paper Scissors Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-rock-paper-scissors-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-rock-paper-scissors-reactjs/){:target="\_blank"}
 
 
-## Other Apps
+## Miscellaneous Apps
 
 - **Counter** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-counter-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-counter-reactjs){:target="\_blank"}
 
