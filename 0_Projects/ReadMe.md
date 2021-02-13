@@ -40,6 +40,8 @@
 
 - **Plant** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-plant-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-plant-reactjs){:target="\_blank"}
 
+- **Food Recipe** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-food-recipe-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-food-recipe-reactjs){:target="\_blank"}
+
 ## Clone Apps
 
 - **Amazon Clone** [Live Demo](https://praveenorugantitech-amaz-clone.firebaseapp.com/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-amazon-clone-reactjs){:target="\_blank"}
