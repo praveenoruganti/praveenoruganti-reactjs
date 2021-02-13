@@ -1,23 +1,5 @@
 # React JS Projects
 
-## Basic Apps
-
-- **Counter** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-counter-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-counter-reactjs){:target="\_blank"}
-
-- **Countdown Timer** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-countdown-timer-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-countdown-timer-reactjs){:target="\_blank"}
-
-- **Calculator** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-calculator-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-calculator-reactjs){:target="\_blank"}
-
-- **Todo List** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-todo-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-todo-reactjs){:target="\_blank"}
-
-- **Step Form** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-step-form-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-step-form-reactjs){:target="\_blank"}
-
-- **Multi Step Form** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-multi-step-form-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-multi-step-form-reactjs){:target="\_blank"}
-
-- **Contact List** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-contact-list-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-contact-list-reactjs){:target="\_blank"}
-
-- **Cart** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-cart-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-cart-reactjs){:target="\_blank"}
-
 ## Apps with External APIs
 
 - **Random Text** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-random-text-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-random-text-reactjs){:target="\_blank"}
@@ -78,7 +60,7 @@
 
 - **Tesla Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-tesla-clone-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-tesla-clone-reactjs){:target="\_blank"}
 
-## Other Apps
+## Game Apps
 
 - **Roll Dice** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-roll-dice-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-roll-dice-reactjs){:target="\_blank"}
 
@@ -88,13 +70,32 @@
 
 - **Rock Paper Scissors Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-rock-paper-scissors-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-rock-paper-scissors-reactjs/){:target="\_blank"}
 
-- **Piano** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-piano-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-piano-reactjs){:target="\_blank"}
+
+## Other Apps
+
+- **Counter** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-counter-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-counter-reactjs){:target="\_blank"}
+
+- **Countdown Timer** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-countdown-timer-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-countdown-timer-reactjs){:target="\_blank"}
+
+- **Calculator** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-calculator-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-calculator-reactjs){:target="\_blank"}
+
+- **Todo List** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-todo-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-todo-reactjs){:target="\_blank"}
+
+- **Step Form** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-step-form-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-step-form-reactjs){:target="\_blank"}
+
+- **Multi Step Form** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-multi-step-form-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-multi-step-form-reactjs){:target="\_blank"}
+
+- **Contact List** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-contact-list-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-contact-list-reactjs){:target="\_blank"}
+
+- **Cart** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-cart-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-cart-reactjs){:target="\_blank"}
 
 - **User Registration using Firebase** [Live Demo](https://praveenoruganti-user-reg.firebaseapp.com/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-user-registration-reactjs){:target="\_blank"}
 
 - **User Registration using MySQL** [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-user-registration-app-mysql-reactjs){:target="\_blank"}
 
 - **Quiz** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-quiz-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-quiz-reactjs){:target="\_blank"}
+
+- **Piano** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-piano-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-piano-reactjs){:target="\_blank"}
 
 - **Beach Resort** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-beach-resort-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-beach-resort-reactjs){:target="\_blank"}
 
