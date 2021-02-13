@@ -66,7 +66,7 @@
 
 - **Tic Tac Toe** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-tic-tac-toe-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-tic-tac-toe-reactjs){:target="\_blank"}
 
-- **Memory Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-memory-game-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-memory-game-reactjs){:target="\_blank"}
+- **Memory Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-memory-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-memory-reactjs){:target="\_blank"}
 
 - **Rock Paper Scissors Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-rock-paper-scissors-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-rock-paper-scissors-reactjs/){:target="\_blank"}
 
