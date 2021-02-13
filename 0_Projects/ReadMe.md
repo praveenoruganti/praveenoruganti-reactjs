@@ -16,6 +16,8 @@
 
 - **Contact List** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-contact-list-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-contact-list-reactjs){:target="\_blank"}
 
+- **Cart** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-cart-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-cart-reactjs){:target="\_blank"}
+
 ## Apps with External APIs
 
 - **Random Text** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-random-text-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-random-text-reactjs){:target="\_blank"}
@@ -93,8 +95,6 @@
 - **User Registration using MySQL** [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-user-registration-app-mysql-reactjs){:target="\_blank"}
 
 - **Quiz** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-quiz-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-quiz-reactjs){:target="\_blank"}
-
-- **Cart** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-cart-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-cart-reactjs){:target="\_blank"}
 
 - **Beach Resort** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-beach-resort-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-beach-resort-reactjs){:target="\_blank"}
 
