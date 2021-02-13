@@ -36,7 +36,7 @@
 
 - **Cocktails** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-cocktails-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-cocktails-reactjs){:target="\_blank"}
 
-- **Pagination** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-pagination-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-pagination-reactjs){:target="\_blank"}
+- **My GitHub Followers with Pagination** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-pagination-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-pagination-reactjs){:target="\_blank"}
 
 - **Plant** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-plant-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-plant-reactjs){:target="\_blank"}
 
