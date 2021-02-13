@@ -74,6 +74,8 @@
 
 - **Rock Paper Scissors Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-rock-paper-scissors-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-rock-paper-scissors-reactjs/){:target="\_blank"}
 
+- **Connect Four Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-connect-four-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-connect-four-reactjs/){:target="\_blank"}
+
 
 ## Miscellaneous Apps
 
