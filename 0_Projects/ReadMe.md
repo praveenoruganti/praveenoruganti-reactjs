@@ -20,8 +20,6 @@
 
 - **News** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-news-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-news-reactjs){:target="\_blank"}
 
-- **TV Series** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-tv-series-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-tv-series-reactjs){:target="\_blank"}
-
 - **Wiki** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-wiki-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-wiki-reactjs){:target="\_blank"}
 
 - **Countries Data** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-countries-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-countries-reactjs){:target="\_blank"}
@@ -31,6 +29,10 @@
 - **Weather Forecast** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-weather-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-weather-reactjs){:target="\_blank"}
 
 - **Movie Search** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-movie-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-movie-reactjs){:target="\_blank"}
+
+- **TV Series** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-tv-series-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-tv-series-reactjs){:target="\_blank"}
+
+- **Entertainment Hub** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-entertainment-hub-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-entertainment-hub-reactjs){:target="\_blank"}
 
 - **IP Address Tracker** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-ipaddress-tracker-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-ipaddress-tracker-reactjs){:target="\_blank"}
 
