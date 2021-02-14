@@ -78,6 +78,8 @@
 
 - **Connect Four Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-connect-four-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-connect-four-reactjs/){:target="\_blank"}
 
+- **Tetris Game** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-tetris-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-tetris-reactjs/){:target="\_blank"}
+
 
 ## Miscellaneous Apps
 
