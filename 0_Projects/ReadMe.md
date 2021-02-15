@@ -6,6 +6,8 @@
 
 - **Random Quote** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-random-quote-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-random-quote-reactjs){:target="\_blank"}
 
+- **Advice** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-advice-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-advice-reactjs){:target="\_blank"}
+
 - **Breaking Bad TV Show Cast** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-breaking-bad-cast-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-breaking-bad-cast-reactjs){:target="\_blank"}
 
 - **Link Shortner** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-link-shortner-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-link-shortner-reactjs){:target="\_blank"}
