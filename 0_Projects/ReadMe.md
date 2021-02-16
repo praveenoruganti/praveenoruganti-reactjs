@@ -62,6 +62,8 @@
 
 - **LinkedIn Clone** [Live Demo](https://praveenoruganti-linkedin-clone.firebaseapp.com/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-linkedin-clone-reactjs){:target="\_blank"}
 
+- **YouTube Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-youtube-clone-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-youtube-clone-reactjs){:target="\_blank"}
+
 - **Netflix Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-netflix-clone-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-netflix-clone-reactjs){:target="\_blank"}
 
 - **Airbnb Clone** [Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-airbnb-clone-reactjs/){:target="\_blank"} [Source Code](https://github.com/praveenorugantitech/praveenorugantitech-airbnb-clone-reactjs){:target="\_blank"}
