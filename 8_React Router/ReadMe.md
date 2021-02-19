@@ -1,6 +1,14 @@
 # React Router
 
-React router helps to build applications where there is no page refresh happening while loading data so users don't need to wait until the page loads while requesting some information or while updating the webpage.
+Traditionally, React has been used to build single-page web apps. However, if you insisted on building a React app with multiple pages or routes, the following process had to be done:
+- Tell React to render the page according to the route that the user has navigated to.
+- To make this possible, React had to go out and fetch the page from a server.
+
+Implementing these steps in code used to be a bit tedious. This is where React Router starts to shine.
+
+React Router library allows us to implement dynamic routing in app.
+
+Also, React router helps to build applications where there is no page refresh happening while loading data so users don't need to wait until the page loads while requesting some information or while updating the webpage.
 
 It's a popular way to build single-page applications in React.
 
